@@ -1,6 +1,6 @@
 # IAS-150
-Module for International Area Studies
+**Module for International Area Studies
 
-Instructor: Crystal Chang
+**Instructor: Crystal Chang
 
-Developers: Makena Schwinn, Kelly Chen, Leo Li
+**Developers: Makena Schwinn, Kelly Chen, Leo Li
