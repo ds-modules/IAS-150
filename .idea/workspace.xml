@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bacbf63-dc55-4b4c-b484-864fd5ec4e08" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IAS Draft (w:o calculations).ipynb" afterPath="$PROJECT_DIR$/IAS Draft (w:o calculations).ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IAS Pre-work Explanation &amp; Examples.ipynb" afterPath="$PROJECT_DIR$/IAS Pre-work Explanation &amp; Examples.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asia-workbook.ipynb" afterPath="$PROJECT_DIR$/asia-workbook.ipynb" />
-    </list>
+    <list default="true" id="1bacbf63-dc55-4b4c-b484-864fd5ec4e08" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -478,7 +474,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="13" y="25" width="1280" height="773" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />

@@ -5,4 +5,6 @@
 
 **Developers: Makena Schwinn, Kelly Chen, Leo Li**
 
+**Some content adapted from the GWS 101 and GWS 131 modules.**
+
 [Outline](https://docs.google.com/a/berkeley.edu/presentation/d/1ai0R142mIF6BoEXFx3r9YH_nvPwhDb3_5jZDwCOyku8/edit?usp=sharing)
