@@ -1,6 +1,8 @@
 # IAS-150: "The Commodification of Love and Women’s Labor in Globalizing Asia"
 **Module for International Area Studies**
 
+Examining the UN's Gender Inequality Index ranking system in Asian countries. 
+
 **Instructor: Crystal Chang**
 
 **Developers: Makena Schwinn, Kelly Chen, Leo Li**
