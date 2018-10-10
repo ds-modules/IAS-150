@@ -5,7 +5,7 @@ Examining the UN's Gender Inequality Index ranking system in Asian countries.
 
 **Instructor: Crystal Chang**
 
-**Developers: Makena Schwinn, Kelly Chen, Leo Li**
+**Developers: Makena Schwinn, Kelly Chen, Leo Li, Keilyn Yuzuki**
 
 **Some content adapted from the GWS 101 and GWS 131 modules.**
 
