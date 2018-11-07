@@ -1,4 +1,8 @@
 # GLOBAL-150Q: "Gender, Labor, and Love in Globalizing Asia"
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ds-modules/IAS-150/master?filepath=asia-workbook-for-students.ipynb)
+[![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](http://datahub.berkeley.edu/user-redirect/interact?account=ds-modules&repo=IAS-150&branch=master&path=asia-workbook-for-students.ipynb)
+
 **Module for Global Studies**
 
 **Instructor: Crystal Chang Cohen**
@@ -8,10 +12,6 @@ The goal of this module is to examine the UN's Gender Inequality Index (GII) ran
 **Developers: Makena Schwinn, Kelly Chen, Leo Li, Keilyn Yuzuki**
 
 **Some content adapted from the GWS 101 and GWS 131 modules.**
-
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ds-modules/IAS-150/master?filepath=asia-workbook-for-students.ipynb)
-
-[![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](http://datahub.berkeley.edu/user-redirect/interact?account=ds-modules&repo=IAS-150&branch=master&path=asia-workbook-for-students.ipynb)
 
 ### Data
 
