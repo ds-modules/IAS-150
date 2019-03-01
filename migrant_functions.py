@@ -1,5 +1,26 @@
 import pandas as pd
 import numpy as np
+
+master_list = ['Cuba',
+ 'El Salvador',
+ 'Guatemala',
+ 'Honduras',
+ 'Mexico',
+ 'Venezuela (Bolivarian Republic of)',
+ 'China',
+ 'India',
+ 'Philippines',
+ 'Vietnam',
+ 'Afghanistan',
+ 'Iraq',
+ 'Pakistan',
+ 'Syria',
+ 'Ethiopia',
+ 'Ghana',
+ 'Kenya',
+ 'Nigeria',
+ 'Somalia',
+ 'South Africa']
 # select certain countries from table, either from origin or destination
 def load_data_excel(filename):
     table = pd.read_excel(filename)
@@ -76,9 +97,22 @@ def concatenate(table1, table2):
     temp = pd.concat([table1, table2])
     return temp
 
-# master table maker
-def master(list_of_tables):
+#Retuns a table with one row of one country
+def country_table(table, country):
     temp = pd.DataFrame()
-    for (table in list_of_tables):
+    for year in table["Year"].unique():
+        origin = get_top_i(table, country, year, origin=True, i=5)
+        destination = get_top_i(table, country, year, origin=False, i=5)
+        origin = table_to_row(origin, country, origin=True)
+        destination = table_to_row(destination, country, origin=False)
+        temp = concatenate(temp, origin)
+        temp = concatenate(temp, destination)
+    return temp
+
+# master table maker
+def master(table):
+    temp = pd.DataFrame()
+    for country in master_list:
+        table = country_table(table, country)
         temp = concatenate(temp, table)
     return temp
