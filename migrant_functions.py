@@ -15,21 +15,6 @@ def select_region(table, region_list, origin=False):
     else:
         return table.loc[table['Country'].isin(region_list), :]
 
-# get the top five origin/destination countries for a given country
-def get_top_i(table, country, year, origin=False, i=5):
-    if origin:
-        table = table.loc[table['Year'] == year, :]
-        table = table.loc[:,['Year', 'Code', 'Country', country]]
-        table = table.sort_values(by=[country], ascending=False)[0:i]
-        table = table.rename(columns={'Country': 'Country of Destination', country: 'Country of Origin: ' + country + ' (Counts)'})
-    else:
-        table = table.loc[table['Year'] == year, :]
-        table = table.loc[table['Country'] == country,:]
-        table = columns_to_rows(table)
-        table = table.sort_values(by=['Country of Destination: ' + country + ' (Counts)'], ascending=False)[0:i]
-    return table
-
-
 # helper function to re-format table in case of tracking in-migration
 def columns_to_rows(table):
 
@@ -45,6 +30,45 @@ def columns_to_rows(table):
         new_df = new_df.append({'Year': year,'Code': code,'Country of Origin': country, 'Country of Destination: '+ country_original + ' (Counts)': table[country].iloc[0]}, ignore_index=True)
 
     return new_df
+
+# get the top five origin/destination countries for a given country
+def get_top_i(table, country, year, origin=False, i=5):
+    if origin:
+        table = table.loc[table['Year'] == year, :]
+        table = table.loc[:,['Year', 'Code', 'Country', country]]
+        table = table.sort_values(by=[country], ascending=False)[0:i]
+        table = table.rename(columns={'Country': 'Country of Destination', country: 'Country of Origin: ' + country + ' (Counts)'})
+    else:
+        table = table.loc[table['Year'] == year, :]
+        table = table.loc[table['Country'] == country,:]
+        table = columns_to_rows(table)
+        table = table.sort_values(by=['Country of Destination: ' + country + ' (Counts)'], ascending=False)[0:i]
+    return table
+
+
+def table_to_row(table, country, origin=True):
+    year = table.iloc[0,0]
+    code = table.iloc[0,1]
+
+    if origin:
+        dest_countries = table['Country of Destination']
+        counts = table['Country of Origin: '+ country + ' (Counts)']
+
+        keys = ['Year', 'Country', 'Code', 'Origin'] + list(dest_countries)
+        values = [[i] for i in  [year, country, code, 1] + list(counts)]
+
+        dictionary = dict(zip(keys, values))
+
+    else:
+        origin_countries = table['Country of Origin']
+        counts = table['Country of Destination: '+ country + ' (Counts)']
+
+
+        keys = ['Year', 'Country', 'Code', 'Origin'] + list(origin_countries)
+        values =  [[i] for i in [year, country, code, 0] + list(counts)]
+
+
+    return pd.DataFrame(dict(zip(keys, values)))
 
 # concatenates 2 tables
 def concatenate(table1, table2):
