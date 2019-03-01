@@ -45,3 +45,16 @@ def columns_to_rows(table):
         new_df = new_df.append({'Year': year,'Code': code,'Country of Origin': country, 'Country of Destination: '+ country_original + ' (Counts)': table[country].iloc[0]}, ignore_index=True)
 
     return new_df
+
+# concatenates 2 tables
+def concatenate(table1, table2):
+    lst = [table1, table2]
+    temp = pd.concat([table1, table2])
+    return temp
+
+# master table maker
+def master(list_of_tables):
+    temp = pd.DataFrame()
+    for (table in list_of_tables):
+        temp = concatenate(temp, table)
+    return temp
