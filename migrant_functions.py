@@ -71,48 +71,84 @@ def table_to_row(table, country, origin=True):
     year = table.iloc[0,0]
     code = table.iloc[0,1]
 
-    if origin:
-        dest_countries = table['Country of Destination']
-        counts = table['Country of Origin: '+ country + ' (Counts)']
+    keys = ['Year',
+        'Country',
+        'Code',
+        'Migration Type',
+       'Country 1',
+       'Country 1 Count',
+       'Country 2',
+       'Country 2 Count',
+       'Country 3',
+       'Country 3 Count',
+       'Country 4',
+       'Country 4 Count',
+       'Country 5',
+       'Country 5 Count']
 
-        keys = ['Year', 'Country', 'Code', 'Origin'] + list(dest_countries)
-        values = [[i] for i in  [year, country, code, 1] + list(counts)]
+    if origin:
+        dest_countries = table['Country of Destination'].values
+        counts = table['Country of Origin: '+ country + ' (Counts)'].values
+
+        dest_counts = []
+        for i in range(len(dest_countries)):
+            dest_counts.append(dest_countries[i])
+            dest_counts.append(counts[i])
+
+        values = [[i] for i in  [year, country, code, 'Emigration'] + dest_counts]
 
         dictionary = dict(zip(keys, values))
 
     else:
-        origin_countries = table['Country of Origin']
-        counts = table['Country of Destination: '+ country + ' (Counts)']
+        origin_countries = table['Country of Origin'].values
+        counts = table['Country of Destination: '+ country + ' (Counts)'].values
 
+        dest_counts = []
+        for i in range(len(origin_countries)):
+            dest_counts.append(origin_countries[i])
+            dest_counts.append(counts[i])
 
-        keys = ['Year', 'Country', 'Code', 'Origin'] + list(origin_countries)
-        values =  [[i] for i in [year, country, code, 0] + list(counts)]
-
+        values = [[i] for i in  [year, country, code, 'Immigration'] + dest_counts]
 
     return pd.DataFrame(dict(zip(keys, values)))
 
 # concatenates 2 tables
 def concatenate(table1, table2):
     lst = [table1, table2]
-    temp = pd.concat([table1, table2])
+    temp = pd.concat([table1, table2], sort=True)
     return temp
 
 #Retuns a table with one row of one country
 def country_table(table, country):
-    temp = pd.DataFrame()
+    temp1 = pd.DataFrame()
     for year in table["Year"].unique():
-        origin = get_top_i(table, country, year, origin=True, i=5)
-        destination = get_top_i(table, country, year, origin=False, i=5)
+        origin = mf.get_top_i(table, country, year, origin=True, i=5)
+        destination = mf.get_top_i(table, country, year, origin=False, i=5)
         origin = table_to_row(origin, country, origin=True)
         destination = table_to_row(destination, country, origin=False)
-        temp = concatenate(temp, origin)
-        temp = concatenate(temp, destination)
-    return temp
+        temp1 = concatenate(temp1, origin)
+        temp1 = concatenate(temp1, destination)
+    return temp1
 
 # master table maker
 def master(table):
     temp = pd.DataFrame()
     for country in master_list:
-        table = country_table(table, country)
-        temp = concatenate(temp, table)
+        print(country)
+        new_table = country_table(table, country)
+        temp = concatenate(temp, new_table)
+    temp = temp[['Code',
+        'Country',
+        'Year',
+        'Migration Type',
+       'Country 1',
+       'Country 1 Count',
+       'Country 2',
+       'Country 2 Count',
+       'Country 3',
+       'Country 3 Count',
+       'Country 4',
+       'Country 4 Count',
+       'Country 5',
+       'Country 5 Count']]
     return temp
