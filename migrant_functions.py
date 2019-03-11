@@ -10,11 +10,11 @@ master_list = ['Cuba',
  'China',
  'India',
  'Philippines',
- 'Vietnam',
+ 'Viet Nam',
  'Afghanistan',
  'Iraq',
  'Pakistan',
- 'Syria',
+ 'Syrian Arab Republic',
  'Ethiopia',
  'Ghana',
  'Kenya',
@@ -24,8 +24,8 @@ master_list = ['Cuba',
 # select certain countries from table, either from origin or destination
 def load_data_excel(filename):
     table = pd.read_excel(filename)
-    table = table.loc[table['Code.1'] <900,:]
-    table = table.drop(columns=['Code.1', 'Other North', 'Other South'])
+    table = table.loc[table['Code'] <900,:]
+    table = table.drop(columns=['Other North', 'Other South'])
     table = table.replace('..', 0)
     return table
 
@@ -36,7 +36,7 @@ def select_region(table, region_list, origin=False):
     else:
         return table.loc[table['Country'].isin(region_list), :]
 
-# helper function to re-format table in case of tracking in-migration
+# helper function to re-format table in case of tracking in-migrations
 def columns_to_rows(table):
 
     country_original = table['Country'].iloc[0]
@@ -52,22 +52,42 @@ def columns_to_rows(table):
 
     return new_df
 
+# gets total counts
+def get_total(table,country,origin=False):
+    if origin:
+        total = table.loc[:,[country]].values.sum()
+    else:
+        total = table['Total'].values[0]
+    return total
+
 # get the top five origin/destination countries for a given country
 def get_top_i(table, country, year, origin=False, i=5):
+
     if origin:
         table = table.loc[table['Year'] == year, :]
         table = table.loc[:,['Year', 'Code', 'Country', country]]
+
+        # get total migration
+        total = get_total(table,country,True)
+
         table = table.sort_values(by=[country], ascending=False)[0:i]
         table = table.rename(columns={'Country': 'Country of Destination', country: 'Country of Origin: ' + country + ' (Counts)'})
     else:
         table = table.loc[table['Year'] == year, :]
         table = table.loc[table['Country'] == country,:]
+
+        total = get_total(table,country)
+
         table = columns_to_rows(table)
         table = table.sort_values(by=['Country of Destination: ' + country + ' (Counts)'], ascending=False)[0:i]
-    return table
 
+    return [table, total]
 
-def table_to_row(table, country, origin=True):
+# converts to row
+def table_to_row(table_list, country, origin=True):
+    table = table_list[0]
+    total = table_list[1]
+
     year = table.iloc[0,0]
     code = table.iloc[0,1]
 
@@ -75,6 +95,7 @@ def table_to_row(table, country, origin=True):
         'Country',
         'Code',
         'Migration Type',
+        'Total Migration',
        'Country 1',
        'Country 1 Count',
        'Country 2',
@@ -95,7 +116,7 @@ def table_to_row(table, country, origin=True):
             dest_counts.append(dest_countries[i])
             dest_counts.append(counts[i])
 
-        values = [[i] for i in  [year, country, code, 'Emigration'] + dest_counts]
+        values = [[i] for i in  [year, country, code, 'Emigration', total] + dest_counts]
 
         dictionary = dict(zip(keys, values))
 
@@ -108,7 +129,7 @@ def table_to_row(table, country, origin=True):
             dest_counts.append(origin_countries[i])
             dest_counts.append(counts[i])
 
-        values = [[i] for i in  [year, country, code, 'Immigration'] + dest_counts]
+        values = [[i] for i in  [year, country, code, 'Immigration', total] + dest_counts]
 
     return pd.DataFrame(dict(zip(keys, values)))
 
@@ -122,8 +143,8 @@ def concatenate(table1, table2):
 def country_table(table, country):
     temp1 = pd.DataFrame()
     for year in table["Year"].unique():
-        origin = mf.get_top_i(table, country, year, origin=True, i=5)
-        destination = mf.get_top_i(table, country, year, origin=False, i=5)
+        origin = get_top_i(table, country, year, origin=True, i=5)
+        destination = get_top_i(table, country, year, origin=False, i=5)
         origin = table_to_row(origin, country, origin=True)
         destination = table_to_row(destination, country, origin=False)
         temp1 = concatenate(temp1, origin)
@@ -141,6 +162,7 @@ def master(table):
         'Country',
         'Year',
         'Migration Type',
+        'Total Migration',
        'Country 1',
        'Country 1 Count',
        'Country 2',
