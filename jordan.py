@@ -95,7 +95,7 @@ def table_2():
     table_np = Table().from_df(table)
     male_table = table_np.drop(2,3,4,5,6,7,8).drop(2,3,4,5,6,7,8).drop(2,3,4)
     female_table = male_table.drop(2,3,4,5,6,7,8).drop(2,3,4,5,6,7,8).drop(2,3,4)
-    total_only = column_grouper(table_np, 'All migrants').to_df()
+    total_only = column_grouper(table_np, 'Total').to_df()
     male_only = column_grouper(male_table, 'Male').drop(0,1).to_df()
     female_only = column_grouper(female_table, 'Female').drop(0,1).to_df()
     pre_pop_table = pd.concat([total_only, male_only, female_only], axis=1)
@@ -240,3 +240,18 @@ def master(table):
        'Country 5',
        'Country 5 Count']]
     return temp
+
+def country_code_year(table):
+    table.move_to_start('Code')
+    table.move_to_start('Country')
+    table.sort('Country')
+    rtn_table = Table()
+    ethiopia_table = table.where('Country', 'Ethiopia').sort('Year')
+    rtn_table = ethiopia_table
+    for country in master_list:
+        if country is 'Ethiopia':
+            continue
+        else :
+            country_table = table.where('Country', country).sort('Year')
+            rtn_table.append(country_table)
+    return rtn_table
