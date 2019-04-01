@@ -1,0 +1,841 @@
+,Code,Country,Year,Migration Type,Total Migration,Gender,Country 1,Country 1 Count,Country 2,Country 2 Count,Country 3,Country 3 Count,Country 4,Country 4 Count,Country 5,Country 5 Count
+0,192,Cuba,1990,Emigration,399117,female,United States of America,351002,Puerto Rico,9510,Spain,9264,Venezuela (Bolivarian Republic of),5874,Dominican Republic,3900
+0,192,Cuba,1990,Emigration,436429,male,United States of America,385969,Spain,12590,Puerto Rico,10069,Venezuela (Bolivarian Republic of),5685,Dominican Republic,2924
+0,192,Cuba,1990,Emigration,835546,total,United States of America,736971,Spain,21854,Puerto Rico,19579,Venezuela (Bolivarian Republic of),11559,Dominican Republic,6824
+0,192,Cuba,1990,Immigration,17278,female,Spain,5394,Russian Federation,1728,Haiti,1478,United States of America,577,China,507
+0,192,Cuba,1990,Immigration,17277,male,Spain,5309,Russian Federation,2763,Ukraine,907,United States of America,609,Haiti,585
+0,192,Cuba,1990,Immigration,34555,total,Spain,10703,Russian Federation,4491,Haiti,2063,Ukraine,1367,United States of America,1186
+0,192,Cuba,1995,Emigration,446062,female,United States of America,389993,Spain,12258,Puerto Rico,9266,Venezuela (Bolivarian Republic of),5466,Dominican Republic,4253
+0,192,Cuba,1995,Emigration,489315,male,United States of America,425624,Spain,16056,Puerto Rico,10027,Italy,5642,Venezuela (Bolivarian Republic of),5137
+0,192,Cuba,1995,Emigration,935377,total,United States of America,815617,Spain,28314,Puerto Rico,19293,Venezuela (Bolivarian Republic of),10603,Dominican Republic,7580
+0,192,Cuba,1995,Immigration,12559,female,Spain,3922,Russian Federation,1223,Haiti,1102,United States of America,418,China,380
+0,192,Cuba,1995,Immigration,13628,male,Spain,4190,Russian Federation,2181,Ukraine,716,United States of America,481,Haiti,462
+0,192,Cuba,1995,Immigration,26187,total,Spain,8112,Russian Federation,3404,Haiti,1564,Ukraine,1036,United States of America,899
+0,192,Cuba,2000,Emigration,500437,female,United States of America,429838,Spain,20270,Puerto Rico,9042,Venezuela (Bolivarian Republic of),5191,Dominican Republic,4606
+0,192,Cuba,2000,Emigration,549465,male,United States of America,465038,Spain,25468,Italy,10341,Puerto Rico,10012,Venezuela (Bolivarian Republic of),4737
+0,192,Cuba,2000,Emigration,1049902,total,United States of America,894876,Spain,45738,Puerto Rico,19054,Italy,11659,Venezuela (Bolivarian Republic of),9928
+0,192,Cuba,2000,Immigration,7840,female,Spain,2450,Haiti,726,Russian Federation,719,United States of America,260,China,252
+0,192,Cuba,2000,Immigration,9978,male,Spain,3071,Russian Federation,1598,Ukraine,525,United States of America,352,Haiti,339
+0,192,Cuba,2000,Immigration,17818,total,Spain,5521,Russian Federation,2317,Haiti,1065,Ukraine,705,United States of America,612
+0,192,Cuba,2005,Emigration,553567,female,United States of America,463625,Spain,32087,Puerto Rico,8077,Venezuela (Bolivarian Republic of),5346,Italy,4677
+0,192,Cuba,2005,Emigration,607085,male,United States of America,495855,Spain,39527,Italy,17884,Puerto Rico,8962,Germany,5448
+0,192,Cuba,2005,Emigration,1160652,total,United States of America,959480,Spain,71614,Italy,22561,Puerto Rico,17039,Venezuela (Bolivarian Republic of),10372
+0,192,Cuba,2005,Immigration,7540,female,Spain,2459,Russian Federation,726,Haiti,726,United States of America,260,China,251
+0,192,Cuba,2005,Immigration,9483,male,Spain,3040,Russian Federation,1582,Ukraine,519,United States of America,349,Haiti,335
+0,192,Cuba,2005,Immigration,17023,total,Spain,5499,Russian Federation,2308,Haiti,1061,Ukraine,702,United States of America,609
+0,192,Cuba,2010,Emigration,616208,female,United States of America,502388,Spain,46653,Italy,8036,Canada,6664,Mexico,6050
+0,192,Cuba,2010,Emigration,694659,male,United States of America,552841,Spain,56536,Italy,25427,Puerto Rico,6843,Germany,6695
+0,192,Cuba,2010,Emigration,1310867,total,United States of America,1055229,Spain,103189,Italy,33463,Canada,13340,Puerto Rico,12882
+0,192,Cuba,2010,Immigration,6611,female,Spain,2266,Russian Federation,672,Haiti,665,United States of America,239,China,230
+0,192,Cuba,2010,Immigration,8207,male,Spain,2758,Russian Federation,1436,Ukraine,471,United States of America,317,Haiti,304
+0,192,Cuba,2010,Immigration,14818,total,Spain,5024,Russian Federation,2108,Haiti,969,Ukraine,641,United States of America,556
+0,192,Cuba,2015,Emigration,705292,female,United States of America,570831,Spain,58864,Mexico,9562,Italy,7583,Canada,7453
+0,192,Cuba,2015,Emigration,806002,male,United States of America,640042,Spain,72270,Italy,25886,Mexico,8091,Canada,7465
+0,192,Cuba,2015,Emigration,1511294,total,United States of America,1210873,Spain,131134,Italy,33469,Mexico,17653,Canada,14918
+0,192,Cuba,2015,Immigration,5950,female,Spain,2040,Russian Federation,605,Haiti,598,United States of America,215,China,207
+0,192,Cuba,2015,Immigration,7386,male,Spain,2482,Russian Federation,1292,Ukraine,424,United States of America,285,Haiti,274
+0,192,Cuba,2015,Immigration,13336,total,Spain,4522,Russian Federation,1897,Haiti,872,Ukraine,577,United States of America,500
+0,192,Cuba,2017,Emigration,727012,female,United States of America,589765,Spain,58961,Mexico,9810,Italy,7779,Canada,7748
+0,192,Cuba,2017,Emigration,831300,male,United States of America,661272,Spain,73417,Italy,26278,Mexico,8301,Germany,8243
+0,192,Cuba,2017,Emigration,1558312,total,United States of America,1251037,Spain,132378,Italy,34057,Mexico,18111,Canada,15509
+0,192,Cuba,2017,Immigration,5861,female,Spain,2010,Russian Federation,596,Haiti,589,United States of America,212,China,204
+0,192,Cuba,2017,Immigration,7275,male,Spain,2444,Russian Federation,1272,Ukraine,417,United States of America,280,Haiti,269
+0,192,Cuba,2017,Immigration,13136,total,Spain,4454,Russian Federation,1868,Haiti,858,Ukraine,568,United States of America,492
+0,222,El Salvador,1990,Emigration,608502,female,United States of America,236909,Mexico,150796,Guatemala,104058,Honduras,55397,Costa Rica,27798
+0,222,El Salvador,1990,Emigration,633375,male,United States of America,228524,Mexico,150310,Guatemala,132597,Honduras,59413,Costa Rica,28459
+0,222,El Salvador,1990,Emigration,1241877,total,United States of America,465433,Mexico,301106,Guatemala,236655,Honduras,114810,Costa Rica,56257
+0,222,El Salvador,1990,Immigration,22218,female,Honduras,6905,United States of America,4032,Guatemala,3739,Nicaragua,1772,Mexico,1095
+0,222,El Salvador,1990,Immigration,25142,male,Honduras,8869,Guatemala,4496,United States of America,4001,Nicaragua,2121,Mexico,1362
+0,222,El Salvador,1990,Immigration,47360,total,Honduras,15774,Guatemala,8235,United States of America,8033,Nicaragua,3893,Mexico,2457
+0,222,El Salvador,1995,Emigration,463035,female,United States of America,332169,Guatemala,54107,Honduras,29173,Canada,15783,Costa Rica,12961
+0,222,El Salvador,1995,Emigration,470090,male,United States of America,317801,Guatemala,70239,Honduras,31519,Canada,16815,Costa Rica,13085
+0,222,El Salvador,1995,Emigration,933125,total,United States of America,649970,Guatemala,124346,Honduras,60692,Canada,32598,Costa Rica,26046
+0,222,El Salvador,1995,Immigration,18564,female,Honduras,5450,Guatemala,3298,United States of America,3160,Nicaragua,2043,Mexico,871
+0,222,El Salvador,1995,Immigration,20973,male,Honduras,7200,Guatemala,3926,United States of America,3146,Nicaragua,2176,Mexico,1077
+0,222,El Salvador,1995,Immigration,39537,total,Honduras,12650,Guatemala,7224,United States of America,6306,Nicaragua,4219,Mexico,1948
+0,222,El Salvador,2000,Emigration,480225,female,United States of America,429782,Canada,18730,Australia,5200,Guatemala,4156,Costa Rica,4065
+0,222,El Salvador,2000,Emigration,468866,male,United States of America,408308,Canada,20096,Guatemala,7881,Australia,5490,Costa Rica,4792
+0,222,El Salvador,2000,Emigration,949091,total,United States of America,838090,Canada,38826,Guatemala,12037,Australia,10690,Costa Rica,8857
+0,222,El Salvador,2000,Immigration,14909,female,Honduras,3994,Guatemala,2857,Nicaragua,2315,United States of America,2282,Mexico,647
+0,222,El Salvador,2000,Immigration,16804,male,Honduras,5531,Guatemala,3355,United States of America,2321,Nicaragua,2230,Mexico,791
+0,222,El Salvador,2000,Immigration,31713,total,Honduras,9525,Guatemala,6212,United States of America,4603,Nicaragua,4545,Mexico,1438
+0,222,El Salvador,2005,Emigration,568462,female,United States of America,514399,Canada,19738,Australia,5240,Guatemala,3877,Belize,3638
+0,222,El Salvador,2005,Emigration,550438,male,United States of America,483459,Canada,20232,Guatemala,10487,Italy,6020,Australia,5520
+0,222,El Salvador,2005,Emigration,1118900,total,United States of America,997858,Canada,39970,Guatemala,14364,Australia,10760,Italy,8882
+0,222,El Salvador,2005,Immigration,17029,female,Honduras,4283,Guatemala,3417,Nicaragua,3142,United States of America,2416,Mexico,700
+0,222,El Salvador,2005,Immigration,18990,male,Honduras,6079,Guatemala,3950,Nicaragua,2882,United States of America,2455,Mexico,841
+0,222,El Salvador,2005,Immigration,36019,total,Honduras,10362,Guatemala,7367,Nicaragua,6024,United States of America,4871,Mexico,1541
+0,222,El Salvador,2010,Emigration,670534,female,United States of America,606751,Canada,22058,Costa Rica,6112,Australia,5370,Italy,4256
+0,222,El Salvador,2010,Emigration,667169,male,United States of America,585672,Canada,21597,Guatemala,13092,Italy,8206,Costa Rica,7576
+0,222,El Salvador,2010,Emigration,1337703,total,United States of America,1192423,Canada,43655,Guatemala,16691,Costa Rica,13688,Italy,12462
+0,222,El Salvador,2010,Immigration,19148,female,Honduras,4571,Guatemala,3977,Nicaragua,3969,United States of America,2562,Mexico,753
+0,222,El Salvador,2010,Immigration,21176,male,Honduras,6627,Guatemala,4544,Nicaragua,3533,United States of America,2614,Mexico,891
+0,222,El Salvador,2010,Immigration,40324,total,Honduras,11198,Guatemala,8521,Nicaragua,7502,United States of America,5176,Mexico,1644
+0,222,El Salvador,2015,Emigration,750735,female,United States of America,679986,Canada,24668,Costa Rica,6160,Australia,5662,Mexico,4792
+0,222,El Salvador,2015,Emigration,758941,male,United States of America,667966,Canada,24152,Guatemala,14845,Italy,8354,Costa Rica,7740
+0,222,El Salvador,2015,Emigration,1509676,total,United States of America,1347952,Canada,48820,Guatemala,19198,Costa Rica,13900,Italy,12464
+0,222,El Salvador,2015,Immigration,19996,female,Honduras,4775,Guatemala,4153,Nicaragua,4144,United States of America,2676,Mexico,786
+0,222,El Salvador,2015,Immigration,22049,male,Honduras,6901,Guatemala,4732,Nicaragua,3679,United States of America,2721,Mexico,928
+0,222,El Salvador,2015,Immigration,42045,total,Honduras,11676,Guatemala,8885,Nicaragua,7823,United States of America,5397,Mexico,1714
+0,222,El Salvador,2017,Emigration,775734,female,United States of America,702541,Canada,25646,Costa Rica,6197,Australia,5911,Belize,5089
+0,222,El Salvador,2017,Emigration,784190,male,United States of America,690122,Canada,25110,Guatemala,15446,Italy,8480,Costa Rica,7787
+0,222,El Salvador,2017,Emigration,1559924,total,United States of America,1392663,Canada,50756,Guatemala,19976,Costa Rica,13984,Italy,12683
+0,222,El Salvador,2017,Immigration,20129,female,Honduras,4807,Guatemala,4180,Nicaragua,4171,United States of America,2694,Mexico,791
+0,222,El Salvador,2017,Immigration,22194,male,Honduras,6946,Guatemala,4763,Nicaragua,3703,United States of America,2738,Mexico,934
+0,222,El Salvador,2017,Immigration,42323,total,Honduras,11753,Guatemala,8943,Nicaragua,7874,United States of America,5432,Mexico,1725
+0,320,Guatemala,1990,Emigration,173120,female,United States of America,113994,Mexico,36574,Belize,6504,Canada,4167,El Salvador,3739
+0,320,Guatemala,1990,Emigration,170503,male,United States of America,111745,Mexico,35769,Belize,6146,El Salvador,4496,Canada,4392
+0,320,Guatemala,1990,Emigration,343623,total,United States of America,225739,Mexico,72343,Belize,12650,Canada,8559,El Salvador,8235
+0,320,Guatemala,1990,Immigration,112615,female,El Salvador,104058,United States of America,2013,Mexico,1558,Nicaragua,1101,Honduras,990
+0,320,Guatemala,1990,Immigration,151642,male,El Salvador,132597,Mexico,3844,United States of America,3809,Honduras,3778,Nicaragua,2625
+0,320,Guatemala,1990,Immigration,264257,total,El Salvador,236655,United States of America,5822,Mexico,5402,Honduras,4768,Nicaragua,3726
+0,320,Guatemala,1995,Emigration,232137,female,United States of America,181531,Mexico,26336,Belize,7178,Canada,5386,El Salvador,3298
+0,320,Guatemala,1995,Emigration,225245,male,United States of America,176398,Mexico,23340,Belize,7172,Canada,5741,El Salvador,3926
+0,320,Guatemala,1995,Emigration,457382,total,United States of America,357929,Mexico,49676,Belize,14350,Canada,11127,El Salvador,7224
+0,320,Guatemala,1995,Immigration,66913,female,El Salvador,54107,Mexico,3466,United States of America,2334,Nicaragua,1783,Honduras,1492
+0,320,Guatemala,1995,Immigration,89275,male,El Salvador,70239,Mexico,4770,Honduras,3540,United States of America,3305,Nicaragua,2782
+0,320,Guatemala,1995,Immigration,156188,total,El Salvador,124346,Mexico,8236,United States of America,5639,Honduras,5032,Nicaragua,4565
+0,320,Guatemala,2000,Emigration,295290,female,United States of America,250780,Mexico,17372,Belize,7853,Canada,6734,El Salvador,2857
+0,320,Guatemala,2000,Emigration,283213,male,United States of America,242090,Mexico,11784,Belize,8205,Canada,7226,El Salvador,3355
+0,320,Guatemala,2000,Emigration,578503,total,United States of America,492870,Mexico,29156,Belize,16058,Canada,13960,El Salvador,6212
+0,320,Guatemala,2000,Immigration,21211,female,Mexico,5374,El Salvador,4156,United States of America,2656,Nicaragua,2465,Honduras,1993
+0,320,Guatemala,2000,Immigration,26908,male,El Salvador,7881,Mexico,5696,Honduras,3302,Nicaragua,2939,United States of America,2800
+0,320,Guatemala,2000,Immigration,48119,total,El Salvador,12037,Mexico,11070,United States of America,5456,Nicaragua,5404,Honduras,5295
+0,320,Guatemala,2005,Emigration,375187,female,United States of America,329093,Mexico,15299,Belize,8763,Canada,7168,El Salvador,3417
+0,320,Guatemala,2005,Emigration,361344,male,United States of America,314256,Mexico,14023,Belize,9259,Canada,7233,El Salvador,3950
+0,320,Guatemala,2005,Emigration,736531,total,United States of America,643349,Mexico,29322,Belize,18022,Canada,14401,El Salvador,7367
+0,320,Guatemala,2005,Immigration,26064,female,Mexico,7133,El Salvador,3877,United States of America,3393,Nicaragua,3203,Honduras,2636
+0,320,Guatemala,2005,Immigration,31188,male,El Salvador,10487,Mexico,6027,Honduras,3658,Nicaragua,3221,United States of America,3080
+0,320,Guatemala,2005,Immigration,57252,total,El Salvador,14364,Mexico,13160,United States of America,6473,Nicaragua,6424,Honduras,6294
+0,320,Guatemala,2010,Emigration,463389,female,United States of America,412680,Mexico,15022,Belize,9678,Canada,7838,El Salvador,3977
+0,320,Guatemala,2010,Emigration,461136,male,United States of America,404815,Mexico,17866,Belize,10317,Canada,7447,El Salvador,4544
+0,320,Guatemala,2010,Emigration,924525,total,United States of America,817495,Mexico,32888,Belize,19995,Canada,15285,El Salvador,8521
+0,320,Guatemala,2010,Immigration,30917,female,Mexico,8892,United States of America,4124,Nicaragua,3941,El Salvador,3599,Honduras,3279
+0,320,Guatemala,2010,Immigration,35467,male,El Salvador,13092,Mexico,6358,Honduras,4013,Nicaragua,3502,United States of America,3390
+0,320,Guatemala,2010,Immigration,66384,total,El Salvador,16691,Mexico,15250,United States of America,7514,Nicaragua,7443,Honduras,7292
+0,320,Guatemala,2015,Emigration,537444,female,United States of America,472466,Mexico,25042,Belize,11172,Canada,8765,El Salvador,4153
+0,320,Guatemala,2015,Emigration,543276,male,United States of America,471720,Mexico,28086,Belize,12059,Canada,8328,El Salvador,4732
+0,320,Guatemala,2015,Emigration,1080720,total,United States of America,944186,Mexico,53128,Belize,23231,Canada,17093,El Salvador,8885
+0,320,Guatemala,2015,Immigration,37136,female,Mexico,10330,United States of America,4799,Nicaragua,4590,El Salvador,4353,Honduras,3837
+0,320,Guatemala,2015,Immigration,41216,male,El Salvador,14845,Mexico,7210,Honduras,4550,Nicaragua,3971,United States of America,3844
+0,320,Guatemala,2015,Immigration,78352,total,El Salvador,19198,Mexico,17540,United States of America,8643,Nicaragua,8561,Honduras,8387
+0,320,Guatemala,2017,Emigration,555667,female,United States of America,488138,Mexico,25692,Belize,12260,Canada,9113,El Salvador,4180
+0,320,Guatemala,2017,Emigration,561688,male,United States of America,487366,Mexico,28816,Belize,13233,Canada,8658,El Salvador,4763
+0,320,Guatemala,2017,Emigration,1117355,total,United States of America,975504,Mexico,54508,Belize,25493,Canada,17771,El Salvador,8943
+0,320,Guatemala,2017,Immigration,38642,female,Mexico,10748,United States of America,4994,Nicaragua,4777,El Salvador,4530,Honduras,3992
+0,320,Guatemala,2017,Immigration,42886,male,El Salvador,15446,Mexico,7502,Honduras,4734,Nicaragua,4131,United States of America,3999
+0,320,Guatemala,2017,Immigration,81528,total,El Salvador,19976,Mexico,18250,United States of America,8993,Nicaragua,8908,Honduras,8726
+0,340,Honduras,1990,Emigration,66894,female,United States of America,46067,El Salvador,6905,Nicaragua,4953,Belize,1521,Costa Rica,1156
+0,340,Honduras,1990,Emigration,89659,male,United States of America,62856,El Salvador,8869,Nicaragua,5152,Guatemala,3778,Costa Rica,1452
+0,340,Honduras,1990,Emigration,156553,total,United States of America,108923,El Salvador,15774,Nicaragua,10105,Guatemala,4768,Belize,2764
+0,340,Honduras,1990,Immigration,137573,female,Nicaragua,74798,El Salvador,55397,Guatemala,1713,United States of America,1535,Mexico,409
+0,340,Honduras,1990,Immigration,132850,male,Nicaragua,68004,El Salvador,59413,Guatemala,1537,United States of America,1157,Mexico,386
+0,340,Honduras,1990,Immigration,270423,total,Nicaragua,142802,El Salvador,114810,Guatemala,3250,United States of America,2692,Mexico,795
+0,340,Honduras,1995,Emigration,106437,female,United States of America,85305,El Salvador,5450,Nicaragua,4607,Belize,2140,Canada,1593
+0,340,Honduras,1995,Emigration,140389,male,United States of America,113204,El Salvador,7200,Nicaragua,4866,Guatemala,3540,Belize,1960
+0,340,Honduras,1995,Emigration,246826,total,United States of America,198509,El Salvador,12650,Nicaragua,9473,Guatemala,5032,Belize,4100
+0,340,Honduras,1995,Immigration,76077,female,Nicaragua,38819,El Salvador,29173,United States of America,2140,Guatemala,1705,Mexico,486
+0,340,Honduras,1995,Immigration,73365,male,Nicaragua,35454,El Salvador,31519,United States of America,1737,Guatemala,1631,Mexico,494
+0,340,Honduras,1995,Immigration,149442,total,Nicaragua,74273,El Salvador,60692,United States of America,3877,Guatemala,3336,Mexico,980
+0,340,Honduras,2000,Emigration,148443,female,United States of America,125606,Nicaragua,4840,El Salvador,3994,Belize,2760,Canada,2152
+0,340,Honduras,2000,Emigration,193816,male,United States of America,164428,El Salvador,5531,Nicaragua,5177,Guatemala,3302,Belize,2676
+0,340,Honduras,2000,Emigration,342259,total,United States of America,290034,Nicaragua,10017,El Salvador,9525,Belize,5436,Guatemala,5295
+0,340,Honduras,2000,Immigration,14581,female,El Salvador,2949,Nicaragua,2841,United States of America,2744,Guatemala,1697,Mexico,562
+0,340,Honduras,2000,Immigration,13880,male,El Salvador,3625,Nicaragua,2927,United States of America,2317,Guatemala,1724,Mexico,602
+0,340,Honduras,2000,Immigration,28461,total,El Salvador,6574,Nicaragua,5768,United States of America,5061,Guatemala,3421,Mexico,1164
+0,340,Honduras,2005,Emigration,195866,female,United States of America,167426,Nicaragua,5189,El Salvador,4283,Belize,3219,Mexico,2968
+0,340,Honduras,2005,Emigration,253236,male,United States of America,216396,El Salvador,6079,Nicaragua,5556,Spain,5006,Mexico,3734
+0,340,Honduras,2005,Emigration,449102,total,United States of America,383822,Nicaragua,10745,El Salvador,10362,Spain,7820,Mexico,6702
+0,340,Honduras,2005,Immigration,14444,female,El Salvador,2931,Nicaragua,2817,United States of America,2719,Guatemala,1682,Mexico,557
+0,340,Honduras,2005,Immigration,13431,male,El Salvador,3508,Nicaragua,2832,United States of America,2227,Guatemala,1669,Mexico,583
+0,340,Honduras,2005,Immigration,27875,total,El Salvador,6439,Nicaragua,5649,United States of America,4946,Guatemala,3351,Mexico,1140
+0,340,Honduras,2010,Emigration,250021,female,United States of America,210726,Spain,8410,Nicaragua,5598,Mexico,4599,El Salvador,4571
+0,340,Honduras,2010,Emigration,337641,male,United States of America,281108,Spain,18492,El Salvador,6627,Nicaragua,5936,Mexico,5381
+0,340,Honduras,2010,Emigration,587662,total,United States of America,491834,Spain,26902,Nicaragua,11534,El Salvador,11198,Mexico,9980
+0,340,Honduras,2010,Immigration,14306,female,El Salvador,2913,Nicaragua,2793,United States of America,2683,Guatemala,1667,Mexico,553
+0,340,Honduras,2010,Immigration,12982,male,El Salvador,3390,Nicaragua,2737,United States of America,2168,Guatemala,1613,Mexico,563
+0,340,Honduras,2010,Immigration,27288,total,El Salvador,6303,Nicaragua,5530,United States of America,4851,Guatemala,3280,Mexico,1116
+0,340,Honduras,2015,Emigration,292832,female,United States of America,244893,Spain,10959,Mexico,7652,Nicaragua,6071,El Salvador,4775
+0,340,Honduras,2015,Emigration,407242,male,United States of America,333567,Spain,30374,Mexico,7375,El Salvador,6901,Nicaragua,6368
+0,340,Honduras,2015,Emigration,700074,total,United States of America,578460,Spain,41333,Mexico,15027,Nicaragua,12439,El Salvador,11676
+0,340,Honduras,2015,Immigration,20116,female,El Salvador,4101,Nicaragua,3931,United States of America,3751,Guatemala,2347,Mexico,779
+0,340,Honduras,2015,Immigration,18201,male,El Salvador,4752,Nicaragua,3836,United States of America,3048,Guatemala,2260,Mexico,788
+0,340,Honduras,2015,Immigration,38317,total,El Salvador,8853,Nicaragua,7767,United States of America,6799,Guatemala,4607,Mexico,1567
+0,340,Honduras,2017,Emigration,302173,female,United States of America,253016,Spain,10869,Mexico,7851,Nicaragua,6207,Belize,4880
+0,340,Honduras,2017,Emigration,420257,male,United States of America,344631,Spain,30856,Mexico,7566,El Salvador,6946,Nicaragua,6509
+0,340,Honduras,2017,Emigration,722430,total,United States of America,597647,Spain,41725,Mexico,15417,Nicaragua,12716,El Salvador,11753
+0,340,Honduras,2017,Immigration,20318,female,El Salvador,4142,Nicaragua,3970,United States of America,3788,Guatemala,2371,Mexico,787
+0,340,Honduras,2017,Immigration,18382,male,El Salvador,4799,Nicaragua,3874,United States of America,3078,Guatemala,2282,Mexico,795
+0,340,Honduras,2017,Immigration,38700,total,El Salvador,8941,Nicaragua,7844,United States of America,6866,Guatemala,4653,Mexico,1582
+0,484,Mexico,1990,Emigration,2357870,female,United States of America,2315850,Canada,9060,Bolivia (Plurinational State of),4025,Spain,3999,France,2439
+0,484,Mexico,1990,Emigration,2036814,male,United States of America,1982164,Canada,9550,Spain,5650,Bolivia (Plurinational State of),4100,France,3866
+0,484,Mexico,1990,Emigration,4394684,total,United States of America,4298014,Canada,18610,Spain,9649,Bolivia (Plurinational State of),8125,France,6305
+0,484,Mexico,1990,Immigration,348353,female,El Salvador,150796,United States of America,97160,Guatemala,36574,Spain,13473,Panama,12956
+0,484,Mexico,1990,Immigration,347321,male,El Salvador,150310,United States of America,101070,Guatemala,35769,Panama,12685,Spain,11147
+0,484,Mexico,1990,Immigration,695674,total,El Salvador,301106,United States of America,198230,Guatemala,72343,Panama,25641,Spain,24620
+0,484,Mexico,1995,Emigration,3746602,female,United States of America,3692951,Canada,14566,Spain,4903,Bolivia (Plurinational State of),4341,Guatemala,3466
+0,484,Mexico,1995,Emigration,3201956,male,United States of America,3134994,Canada,15547,Spain,6756,Guatemala,4770,Bolivia (Plurinational State of),4429
+0,484,Mexico,1995,Emigration,6948558,total,United States of America,6827945,Canada,30113,Spain,11659,Bolivia (Plurinational State of),8770,Guatemala,8236
+0,484,Mexico,1995,Immigration,229589,female,United States of America,134898,Guatemala,26336,Spain,12178,Panama,6879,Italy,2730
+0,484,Mexico,1995,Immigration,228960,male,United States of America,137574,Guatemala,23340,Spain,10313,Panama,6843,Colombia,2954
+0,484,Mexico,1995,Immigration,458549,total,United States of America,272472,Guatemala,49676,Spain,22491,Panama,13722,Colombia,5530
+0,484,Mexico,2000,Emigration,5172767,female,United States of America,5104175,Canada,20421,Spain,8137,Guatemala,5374,Bolivia (Plurinational State of),4609
+0,484,Mexico,2000,Emigration,4389511,male,United States of America,4306354,Canada,21911,Spain,10549,Guatemala,5696,Bolivia (Plurinational State of),4714
+0,484,Mexico,2000,Emigration,9562278,total,United States of America,9410529,Canada,42332,Spain,18686,Guatemala,11070,Bolivia (Plurinational State of),9323
+0,484,Mexico,2000,Immigration,270896,female,United States of America,179268,Guatemala,17372,Spain,11468,Canada,3640,Italy,3470
+0,484,Mexico,2000,Immigration,267155,male,United States of America,179131,Guatemala,11784,Spain,9866,Cuba,3822,Colombia,3632
+0,484,Mexico,2000,Immigration,538051,total,United States of America,358399,Guatemala,29156,Spain,21334,Cuba,7267,Canada,7245
+0,484,Mexico,2005,Emigration,5876624,female,United States of America,5782166,Canada,29641,Spain,15602,Guatemala,7133,Bolivia (Plurinational State of),4307
+0,484,Mexico,2005,Emigration,4939920,male,United States of America,4828898,Canada,31545,Spain,20209,Germany,6700,Guatemala,6027
+0,484,Mexico,2005,Emigration,10816544,total,United States of America,10611064,Canada,61186,Spain,35811,Guatemala,13160,Germany,10738
+0,484,Mexico,2005,Immigration,359642,female,United States of America,262552,Guatemala,15299,Spain,10577,Argentina,5087,Cuba,4484
+0,484,Mexico,2005,Immigration,352845,male,United States of America,257501,Guatemala,14023,Spain,9301,Colombia,5301,Argentina,4741
+0,484,Mexico,2005,Immigration,712487,total,United States of America,520053,Guatemala,29322,Spain,19878,Argentina,9828,Colombia,9403
+0,484,Mexico,2010,Emigration,6667264,female,United States of America,6554739,Canada,33906,Spain,19426,Guatemala,8892,Germany,5968
+0,484,Mexico,2010,Emigration,5745821,male,United States of America,5613923,Canada,35789,Spain,25375,Germany,8811,France,7510
+0,484,Mexico,2010,Emigration,12413085,total,United States of America,12168662,Canada,69695,Spain,44801,Guatemala,15250,Germany,14779
+0,484,Mexico,2010,Immigration,490691,female,United States of America,376724,Guatemala,15022,Spain,10928,Argentina,7460,Cuba,6050
+0,484,Mexico,2010,Immigration,478847,male,United States of America,365194,Guatemala,17866,Spain,9799,Colombia,7576,Argentina,6711
+0,484,Mexico,2010,Immigration,969538,total,United States of America,741918,Guatemala,32888,Spain,20727,Argentina,14171,Colombia,13259
+0,484,Mexico,2015,Emigration,6686352,female,United States of America,6561981,Canada,37918,Spain,20525,Guatemala,10330,Germany,6196
+0,484,Mexico,2015,Emigration,5860185,male,United States of America,5713895,Canada,40023,Spain,28088,Germany,9203,France,8333
+0,484,Mexico,2015,Emigration,12546537,total,United States of America,12275876,Canada,77941,Spain,48613,Guatemala,17540,Germany,15399
+0,484,Mexico,2015,Immigration,604669,female,United States of America,443641,Guatemala,25042,Spain,14219,Argentina,9849,Cuba,9562
+0,484,Mexico,2015,Immigration,588486,male,United States of America,432887,Guatemala,28086,Spain,12690,Colombia,10887,Argentina,8879
+0,484,Mexico,2015,Immigration,1193155,total,United States of America,876528,Guatemala,53128,Spain,26909,Colombia,20135,Argentina,18728
+0,484,Mexico,2017,Emigration,6909042,female,United States of America,6779642,Canada,39423,Spain,20540,Guatemala,10748,Germany,7480
+0,484,Mexico,2017,Emigration,6055840,male,United States of America,5903424,Canada,41610,Spain,28534,Germany,10849,France,8337
+0,484,Mexico,2017,Emigration,12964882,total,United States of America,12683066,Canada,81033,Spain,49074,Germany,18329,Guatemala,18250
+0,484,Mexico,2017,Immigration,620387,female,United States of America,455173,Guatemala,25692,Spain,14589,Argentina,10105,Cuba,9810
+0,484,Mexico,2017,Immigration,603782,male,United States of America,444138,Guatemala,28816,Spain,13019,Colombia,11169,Argentina,9109
+0,484,Mexico,2017,Immigration,1224169,total,United States of America,899311,Guatemala,54508,Spain,27608,Colombia,20658,Argentina,19214
+0,862,Venezuela (Bolivarian Republic of),1990,Emigration,83042,female,United States of America,16260,Colombia,15410,Spain,15105,Dominican Republic,7698,Portugal,7204
+0,862,Venezuela (Bolivarian Republic of),1990,Emigration,102846,male,United States of America,25859,Colombia,17713,Spain,17364,Portugal,7755,Italy,6853
+0,862,Venezuela (Bolivarian Republic of),1990,Emigration,185888,total,United States of America,42119,Colombia,33123,Spain,32469,Portugal,14959,Dominican Republic,14235
+0,862,Venezuela (Bolivarian Republic of),1990,Immigration,517579,female,Colombia,259738,Spain,59040,Portugal,41868,Italy,40837,Peru,16669
+0,862,Venezuela (Bolivarian Republic of),1990,Immigration,507430,male,Colombia,295840,Spain,50038,Portugal,29714,Italy,23955,Peru,12966
+0,862,Venezuela (Bolivarian Republic of),1990,Immigration,1025009,total,Colombia,555578,Spain,109078,Portugal,71582,Italy,64792,Peru,29635
+0,862,Venezuela (Bolivarian Republic of),1995,Emigration,107569,female,United States of America,29717,Spain,18104,Colombia,16510,Portugal,8679,Dominican Republic,8374
+0,862,Venezuela (Bolivarian Republic of),1995,Emigration,135416,male,United States of America,45855,Spain,20600,Colombia,18652,Portugal,9541,Dominican Republic,7437
+0,862,Venezuela (Bolivarian Republic of),1995,Emigration,242985,total,United States of America,75572,Spain,38704,Colombia,35162,Portugal,18220,Dominican Republic,15811
+0,862,Venezuela (Bolivarian Republic of),1995,Immigration,513473,female,Colombia,278046,Spain,49441,Portugal,36459,Italy,35453,Peru,18421
+0,862,Venezuela (Bolivarian Republic of),1995,Immigration,506523,male,Colombia,310277,Spain,43017,Portugal,26108,Italy,21722,Peru,14552
+0,862,Venezuela (Bolivarian Republic of),1995,Immigration,1019996,total,Colombia,588323,Spain,92458,Portugal,62567,Italy,57175,Peru,32973
+0,862,Venezuela (Bolivarian Republic of),2000,Emigration,142400,female,United States of America,43552,Spain,29787,Colombia,17609,Portugal,10544,Dominican Republic,9050
+0,862,Venezuela (Bolivarian Republic of),2000,Emigration,177640,male,United States of America,66196,Spain,31800,Colombia,19591,Portugal,11678,Dominican Republic,8336
+0,862,Venezuela (Bolivarian Republic of),2000,Emigration,320040,total,United States of America,109748,Spain,61587,Colombia,37200,Portugal,22222,Dominican Republic,17386
+0,862,Venezuela (Bolivarian Republic of),2000,Immigration,508639,female,Colombia,294386,Spain,40970,Portugal,31422,Italy,30443,Peru,20145
+0,862,Venezuela (Bolivarian Republic of),2000,Immigration,505024,male,Colombia,322796,Spain,36680,Portugal,22754,Italy,19539,Peru,16203
+0,862,Venezuela (Bolivarian Republic of),2000,Immigration,1013663,total,Colombia,617182,Spain,77650,Portugal,54176,Italy,49982,Peru,36348
+0,862,Venezuela (Bolivarian Republic of),2005,Emigration,194411,female,United States of America,57108,Spain,50911,Colombia,17802,Italy,11607,Portugal,11235
+0,862,Venezuela (Bolivarian Republic of),2005,Emigration,242869,male,United States of America,85598,Spain,57796,Colombia,19335,Italy,17196,Portugal,12509
+0,862,Venezuela (Bolivarian Republic of),2005,Emigration,437280,total,United States of America,142706,Spain,108707,Colombia,37137,Italy,28803,Portugal,23744
+0,862,Venezuela (Bolivarian Republic of),2005,Immigration,535096,female,Colombia,315004,Spain,40372,Portugal,31265,Italy,30862,Peru,22265
+0,862,Venezuela (Bolivarian Republic of),2005,Immigration,535466,male,Colombia,351376,Spain,35081,Portugal,22381,Italy,18905,Peru,17581
+0,862,Venezuela (Bolivarian Republic of),2005,Immigration,1070562,total,Colombia,666380,Spain,75453,Portugal,53646,Italy,49767,Peru,39846
+0,862,Venezuela (Bolivarian Republic of),2010,Emigration,245710,female,United States of America,70901,Spain,69142,Colombia,21372,Italy,20816,Portugal,10087
+0,862,Venezuela (Bolivarian Republic of),2010,Emigration,310931,male,United States of America,110004,Spain,79005,Italy,28146,Colombia,22139,Portugal,11236
+0,862,Venezuela (Bolivarian Republic of),2010,Emigration,556641,total,United States of America,180905,Spain,148147,Italy,48962,Colombia,43511,Portugal,21323
+0,862,Venezuela (Bolivarian Republic of),2010,Immigration,667963,female,Colombia,441632,Spain,39682,Italy,31216,Portugal,31063,Peru,24570
+0,862,Venezuela (Bolivarian Republic of),2010,Immigration,663525,male,Colombia,477317,Spain,33497,Portugal,21965,Peru,19037,Italy,18251
+0,862,Venezuela (Bolivarian Republic of),2010,Immigration,1331488,total,Colombia,918949,Spain,73179,Portugal,53028,Italy,49467,Peru,43607
+0,862,Venezuela (Bolivarian Republic of),2015,Emigration,278497,female,United States of America,86958,Spain,73721,Colombia,24168,Italy,20316,Portugal,10780
+0,862,Venezuela (Bolivarian Republic of),2015,Emigration,362189,male,United States of America,138028,Spain,86757,Italy,28654,Colombia,24546,Portugal,13394
+0,862,Venezuela (Bolivarian Republic of),2015,Emigration,640686,total,United States of America,224986,Spain,160478,Italy,48970,Colombia,48714,Portugal,24174
+0,862,Venezuela (Bolivarian Republic of),2015,Immigration,703458,female,Colombia,469595,Spain,39979,Italy,31971,Portugal,31672,Peru,26206
+0,862,Venezuela (Bolivarian Republic of),2015,Immigration,700990,male,Colombia,503720,Spain,34603,Portugal,22919,Peru,20801,Italy,19097
+0,862,Venezuela (Bolivarian Republic of),2015,Immigration,1404448,total,Colombia,973315,Spain,74582,Portugal,54591,Italy,51068,Peru,47007
+0,862,Venezuela (Bolivarian Republic of),2017,Emigration,285367,female,United States of America,89842,Spain,73866,Colombia,24722,Italy,20743,Portugal,11120
+0,862,Venezuela (Bolivarian Republic of),2017,Emigration,372072,male,United States of America,142606,Spain,88134,Italy,29088,Colombia,25107,Portugal,13483
+0,862,Venezuela (Bolivarian Republic of),2017,Emigration,657439,total,United States of America,232448,Spain,162000,Italy,49831,Colombia,49829,Portugal,24603
+0,862,Venezuela (Bolivarian Republic of),2017,Immigration,714422,female,Colombia,476914,Spain,40602,Italy,32469,Portugal,32165,Peru,26614
+0,862,Venezuela (Bolivarian Republic of),2017,Immigration,711914,male,Colombia,511569,Spain,35142,Portugal,23276,Peru,21125,Italy,19394
+0,862,Venezuela (Bolivarian Republic of),2017,Immigration,1426336,total,Colombia,988483,Spain,75744,Portugal,55441,Italy,51863,Peru,47739
+0,156,China,1990,Emigration,2198341,female,"China, Hong Kong SAR",920641,United States of America,378564,Indonesia,121854,Canada,81825,"China, Macao SAR",80291
+0,156,China,1990,Emigration,2031519,male,"China, Hong Kong SAR",738516,United States of America,395375,Indonesia,136456,"China, Macao SAR",92055,Canada,86254
+0,156,China,1990,Emigration,4229860,total,"China, Hong Kong SAR",1659157,United States of America,773939,Indonesia,258310,"China, Macao SAR",172346,Canada,168079
+0,156,China,1990,Immigration,191954,female,Republic of Korea,81853,Viet Nam,11453,United States of America,9795,Philippines,9490,"China, Macao SAR",6857
+0,156,China,1990,Immigration,184407,male,Republic of Korea,66288,Philippines,18665,Indonesia,15482,United States of America,7167,Viet Nam,6610
+0,156,China,1990,Immigration,376361,total,Republic of Korea,148141,Philippines,28155,Indonesia,21305,Viet Nam,18063,United States of America,16962
+0,156,China,1995,Emigration,2508589,female,"China, Hong Kong SAR",949254,United States of America,519973,Canada,138663,Japan,108504,Singapore,86902
+0,156,China,1995,Emigration,2436787,male,"China, Hong Kong SAR",823343,United States of America,538514,Canada,148049,Japan,117552,Singapore,104173
+0,156,China,1995,Emigration,4945376,total,"China, Hong Kong SAR",1772597,United States of America,1058487,Canada,286712,Japan,226056,Singapore,191075
+0,156,China,1995,Immigration,223018,female,Republic of Korea,78456,Brazil,17625,Philippines,15571,Viet Nam,11936,United States of America,10366
+0,156,China,1995,Immigration,219180,male,Republic of Korea,62876,Philippines,24819,Indonesia,17426,Brazil,15172,United States of America,7758
+0,156,China,1995,Immigration,442198,total,Republic of Korea,141332,Philippines,40390,Brazil,32797,Indonesia,24962,Viet Nam,19149
+0,156,China,2000,Emigration,2876059,female,"China, Hong Kong SAR",977867,United States of America,664923,Canada,198829,Japan,155039,Singapore,109883
+0,156,China,2000,Emigration,2910895,male,"China, Hong Kong SAR",908170,United States of America,683542,Canada,213333,Japan,180561,Singapore,140315
+0,156,China,2000,Emigration,5786954,total,"China, Hong Kong SAR",1886037,United States of America,1348465,Canada,412162,Japan,335600,Singapore,250198
+0,156,China,2000,Immigration,254082,female,Republic of Korea,75060,Brazil,28567,Philippines,21652,Viet Nam,12418,United States of America,10937
+0,156,China,2000,Immigration,253952,male,Republic of Korea,59464,Philippines,30974,Brazil,24937,Indonesia,19371,United States of America,8349
+0,156,China,2000,Immigration,508034,total,Republic of Korea,134524,Brazil,53504,Philippines,52626,Indonesia,28619,Viet Nam,20235
+0,156,China,2005,Emigration,3494147,female,"China, Hong Kong SAR",991785,United States of America,797231,Japan,295216,Canada,237598,Singapore,126904
+0,156,China,2005,Emigration,3748159,male,"China, Hong Kong SAR",1078752,United States of America,810423,Japan,352904,Canada,271396,Singapore,172747
+0,156,China,2005,Emigration,7242306,total,"China, Hong Kong SAR",2070537,United States of America,1607654,Japan,648120,Canada,508994,Singapore,299651
+0,156,China,2005,Immigration,379920,female,Republic of Korea,89711,"China, Hong Kong SAR",71680,Brazil,34411,Philippines,27482,Viet Nam,14608
+0,156,China,2005,Immigration,299027,male,Republic of Korea,58702,"China, Hong Kong SAR",47310,Philippines,30577,Brazil,24617,Indonesia,19122
+0,156,China,2005,Immigration,678947,total,Republic of Korea,148413,"China, Hong Kong SAR",118990,Brazil,59028,Philippines,58059,Indonesia,31573
+0,156,China,2010,Emigration,4055018,female,"China, Hong Kong SAR",1008141,United States of America,940249,Japan,309056,Canada,280194,Republic of Korea,236955
+0,156,China,2010,Emigration,4593867,male,"China, Hong Kong SAR",1251904,United States of America,982701,Japan,378100,Canada,331796,Republic of Korea,253073
+0,156,China,2010,Emigration,8648885,total,"China, Hong Kong SAR",2260045,United States of America,1922950,Japan,687156,Canada,611990,Republic of Korea,490028
+0,156,China,2010,Immigration,505758,female,"China, Hong Kong SAR",141321,Republic of Korea,104362,Brazil,40254,Philippines,33313,Viet Nam,16797
+0,156,China,2010,Immigration,344103,male,"China, Hong Kong SAR",93508,Republic of Korea,57941,Philippines,30180,Brazil,24298,Indonesia,18874
+0,156,China,2010,Immigration,849861,total,"China, Hong Kong SAR",234829,Republic of Korea,162303,Brazil,64552,Philippines,63493,Indonesia,34528
+0,156,China,2015,Emigration,4457294,female,United States of America,1136029,"China, Hong Kong SAR",979443,Japan,317801,Canada,313347,Republic of Korea,287291
+0,156,China,2015,Emigration,5217915,male,"China, Hong Kong SAR",1328340,United States of America,1209179,Japan,394721,Canada,371054,Republic of Korea,322042
+0,156,China,2015,Emigration,9675209,total,United States of America,2345208,"China, Hong Kong SAR",2307783,Japan,712522,Canada,684401,Republic of Korea,609333
+0,156,China,2015,Immigration,600136,female,"China, Hong Kong SAR",167553,Republic of Korea,123150,Brazil,47603,Philippines,39924,Viet Nam,19731
+0,156,China,2015,Immigration,377910,male,"China, Hong Kong SAR",102699,Republic of Korea,63636,Philippines,33146,Brazil,26686,Indonesia,20729
+0,156,China,2015,Immigration,978046,total,"China, Hong Kong SAR",270252,Republic of Korea,186786,Brazil,74289,Philippines,73070,Indonesia,39736
+0,156,China,2017,Emigration,4589075,female,United States of America,1173711,"China, Hong Kong SAR",994758,Japan,330513,Canada,325780,Republic of Korea,289498
+0,156,China,2017,Emigration,5372983,male,"China, Hong Kong SAR",1349110,United States of America,1249287,Japan,410509,Canada,385775,Republic of Korea,324514
+0,156,China,2017,Emigration,9962058,total,United States of America,2422998,"China, Hong Kong SAR",2343868,Japan,741022,Canada,711555,Republic of Korea,614012
+0,156,China,2017,Immigration,613317,female,"China, Hong Kong SAR",171233,Republic of Korea,125855,Brazil,48648,Philippines,40801,Viet Nam,20165
+0,156,China,2017,Immigration,386210,male,"China, Hong Kong SAR",104954,Republic of Korea,65033,Philippines,33873,Brazil,27272,Indonesia,21184
+0,156,China,2017,Immigration,999527,total,"China, Hong Kong SAR",276187,Republic of Korea,190888,Brazil,75920,Philippines,74674,Indonesia,40608
+0,356,India,1990,Emigration,3857101,female,Pakistan,1583095,Saudi Arabia,612071,United Arab Emirates,353659,Kuwait,257851,United States of America,238925
+0,356,India,1990,Emigration,2861761,male,Pakistan,1333453,Saudi Arabia,294397,Nepal,267540,United States of America,211481,United Kingdom,204751
+0,356,India,1990,Emigration,6718862,total,Pakistan,2916548,Saudi Arabia,906468,United Arab Emirates,458294,United States of America,450406,United Kingdom,399526
+0,356,India,1990,Immigration,3914396,female,Bangladesh,2324893,Pakistan,1024721,Nepal,223552,Sri Lanka,143161,Myanmar,44527
+0,356,India,1990,Immigration,3578808,male,Bangladesh,2050262,Pakistan,896557,Nepal,294660,Sri Lanka,138559,Myanmar,41179
+0,356,India,1990,Immigration,7493204,total,Bangladesh,4375155,Pakistan,1921278,Nepal,518212,Sri Lanka,281720,Myanmar,85706
+0,356,India,1995,Emigration,4154739,female,Pakistan,1324803,Saudi Arabia,627174,United Arab Emirates,506130,United States of America,397485,Kuwait,232387
+0,356,India,1995,Emigration,3079043,male,Pakistan,1120376,Nepal,383358,United States of America,348852,Saudi Arabia,302535,United Kingdom,217442
+0,356,India,1995,Emigration,7233782,total,Pakistan,2445179,Saudi Arabia,929709,United States of America,746337,United Arab Emirates,667853,Nepal,515578
+0,356,India,1995,Immigration,3608978,female,Bangladesh,2180615,Pakistan,863727,Nepal,266232,Sri Lanka,119180,Myanmar,38244
+0,356,India,1995,Immigration,3343260,male,Bangladesh,1946520,Pakistan,773528,Nepal,324968,Sri Lanka,116605,Myanmar,35551
+0,356,India,1995,Immigration,6952238,total,Bangladesh,4127135,Pakistan,1637255,Nepal,591200,Sri Lanka,235785,Myanmar,73795
+0,356,India,2000,Emigration,4650836,female,Pakistan,1169500,United Arab Emirates,685811,Saudi Arabia,664047,United States of America,560016,Kuwait,298321
+0,356,India,2000,Emigration,3327529,male,Pakistan,991829,United States of America,488501,Nepal,391353,Saudi Arabia,314945,United Kingdom,234351
+0,356,India,2000,Emigration,7978365,total,Pakistan,2161329,United States of America,1048517,Saudi Arabia,978992,United Arab Emirates,915848,Nepal,543594
+0,356,India,2000,Immigration,3303560,female,Bangladesh,2036336,Pakistan,702733,Nepal,308912,Sri Lanka,95199,Myanmar,31962
+0,356,India,2000,Immigration,3107712,male,Bangladesh,1842778,Pakistan,650498,Nepal,355275,Sri Lanka,94651,Myanmar,29922
+0,356,India,2000,Immigration,6411272,total,Bangladesh,3879114,Pakistan,1353231,Nepal,664187,Sri Lanka,189850,Myanmar,61884
+0,356,India,2005,Emigration,5836113,female,Pakistan,1118565,United Arab Emirates,978062,Saudi Arabia,846607,United States of America,746307,Kuwait,353914
+0,356,India,2005,Emigration,3813513,male,Pakistan,949582,United States of America,644298,Saudi Arabia,369942,Nepal,362122,United Arab Emirates,308931
+0,356,India,2005,Emigration,9649626,total,Pakistan,2068147,United States of America,1390605,United Arab Emirates,1286993,Saudi Arabia,1216549,United Kingdom,549350
+0,356,India,2005,Immigration,3045693,female,Bangladesh,1877540,Pakistan,647902,Nepal,284662,Sri Lanka,87758,Myanmar,29467
+0,356,India,2005,Immigration,2877949,male,Bangladesh,1706536,Pakistan,602405,Nepal,329009,Sri Lanka,87653,Myanmar,27710
+0,356,India,2005,Immigration,5923642,total,Bangladesh,3584076,Pakistan,1250307,Nepal,613671,Sri Lanka,175411,Myanmar,57177
+0,356,India,2010,Emigration,8546322,female,United Arab Emirates,2264000,Saudi Arabia,1120873,Pakistan,1093934,United States of America,946212,Kuwait,499384
+0,356,India,2010,Emigration,4775010,male,Pakistan,929143,United States of America,838072,United Arab Emirates,649802,Saudi Arabia,458362,United Kingdom,340369
+0,356,India,2010,Emigration,13321332,total,United Arab Emirates,2913802,Pakistan,2023077,United States of America,1784284,Saudi Arabia,1579235,United Kingdom,691279
+0,356,India,2010,Immigration,2787826,female,Bangladesh,1718743,Pakistan,593071,Nepal,260412,Sri Lanka,80316,Myanmar,26972
+0,356,India,2010,Immigration,2648186,male,Bangladesh,1570294,Pakistan,554311,Nepal,302742,Sri Lanka,80655,Myanmar,25498
+0,356,India,2010,Immigration,5436012,total,Bangladesh,3289037,Pakistan,1147382,Nepal,563154,Sri Lanka,160971,Myanmar,52470
+0,356,India,2015,Emigration,10283117,female,United Arab Emirates,2474001,Saudi Arabia,1406156,United States of America,1175243,Pakistan,1081815,Oman,913939
+0,356,India,2015,Emigration,5576939,male,United States of America,1058571,Pakistan,919093,United Arab Emirates,710016,Saudi Arabia,597100,United Kingdom,397102
+0,356,India,2015,Emigration,15860056,total,United Arab Emirates,3184017,United States of America,2233814,Saudi Arabia,2003256,Pakistan,2000908,Kuwait,1061758
+0,356,India,2015,Immigration,2684680,female,Bangladesh,1655225,Pakistan,571138,Nepal,250712,Sri Lanka,77339,Myanmar,25974
+0,356,India,2015,Immigration,2556280,male,Bangladesh,1515797,Pakistan,535074,Nepal,292235,Sri Lanka,77856,Myanmar,24613
+0,356,India,2015,Immigration,5240960,total,Bangladesh,3171022,Pakistan,1106212,Nepal,542947,Sri Lanka,155195,Myanmar,50587
+0,356,India,2017,Emigration,10835310,female,United Arab Emirates,2572216,Saudi Arabia,1572809,United States of America,1214226,Oman,1056007,Pakistan,1016841
+0,356,India,2017,Emigration,5752410,male,United States of America,1093683,Pakistan,856809,United Arab Emirates,738203,Saudi Arabia,693407,United Kingdom,419632
+0,356,India,2017,Emigration,16587720,total,United Arab Emirates,3310419,United States of America,2307909,Saudi Arabia,2266216,Pakistan,1873650,Oman,1201995
+0,356,India,2017,Immigration,2657833,female,Bangladesh,1638673,Pakistan,565426,Nepal,248205,Sri Lanka,76566,Myanmar,25715
+0,356,India,2017,Immigration,2530717,male,Bangladesh,1500638,Pakistan,529723,Nepal,289312,Sri Lanka,77077,Myanmar,24366
+0,356,India,2017,Immigration,5188550,total,Bangladesh,3139311,Pakistan,1095149,Nepal,537517,Sri Lanka,153643,Myanmar,50081
+0,608,Philippines,1990,Emigration,834460,female,United States of America,352063,Saudi Arabia,123253,Canada,57593,Malaysia,55859,United Arab Emirates,35492
+0,608,Philippines,1990,Emigration,1194730,male,United States of America,560611,Saudi Arabia,116298,"China, Hong Kong SAR",69690,Canada,60711,Australia,58153
+0,608,Philippines,1990,Emigration,2029190,total,United States of America,912674,Saudi Arabia,239551,Canada,118304,Malaysia,104730,Australia,90580
+0,608,Philippines,1990,Immigration,81347,female,China,28456,United States of America,10685,Viet Nam,8113,Cambodia,3840,United Kingdom,3305
+0,608,Philippines,1990,Immigration,72724,male,China,25336,Viet Nam,10061,United States of America,7061,Cambodia,3688,United Kingdom,2723
+0,608,Philippines,1990,Immigration,154071,total,China,53792,Viet Nam,18174,United States of America,17746,Cambodia,7528,United Kingdom,6028
+0,608,Philippines,1995,Emigration,1051240,female,United States of America,448777,Saudi Arabia,126940,Canada,84913,Malaysia,65881,United Arab Emirates,59507
+0,608,Philippines,1995,Emigration,1453678,male,United States of America,707366,Saudi Arabia,118567,Canada,90591,"China, Hong Kong SAR",78296,Australia,66880
+0,608,Philippines,1995,Emigration,2504918,total,United States of America,1156143,Saudi Arabia,245507,Canada,175504,Malaysia,123116,Australia,103492
+0,608,Philippines,1995,Immigration,107524,female,China,37615,United States of America,14191,Viet Nam,10649,Cambodia,5068,United Kingdom,4375
+0,608,Philippines,1995,Immigration,99821,male,China,34776,Viet Nam,13809,United States of America,9691,Cambodia,5062,United Kingdom,3737
+0,608,Philippines,1995,Immigration,207345,total,China,72391,Viet Nam,24458,United States of America,23882,Cambodia,10130,United Kingdom,8112
+0,608,Philippines,2000,Emigration,1305773,female,United States of America,548206,Saudi Arabia,126808,Canada,114272,United Arab Emirates,86563,Malaysia,81770
+0,608,Philippines,2000,Emigration,1760110,male,United States of America,855628,Saudi Arabia,125442,Canada,122605,"China, Hong Kong SAR",86902,Japan,77950
+0,608,Philippines,2000,Emigration,3065883,total,United States of America,1403834,Saudi Arabia,252250,Canada,236877,Malaysia,154427,Japan,144882
+0,608,Philippines,2000,Immigration,161904,female,China,44141,United States of America,18874,United Kingdom,16101,Bahrain,4150,Japan,3690
+0,608,Philippines,2000,Immigration,156191,male,China,44277,United Kingdom,17502,United States of America,17103,Bahrain,4231,Dem. People's Republic of Korea,2973
+0,608,Philippines,2000,Immigration,318095,total,China,88418,United States of America,35977,United Kingdom,33603,Bahrain,8381,Japan,6249
+0,608,Philippines,2005,Emigration,1613720,female,United States of America,628805,Saudi Arabia,170395,Canada,151734,United Arab Emirates,148130,Japan,90299
+0,608,Philippines,2005,Emigration,2086871,male,United States of America,967654,Canada,200114,Saudi Arabia,141208,Japan,107942,"China, Hong Kong SAR",99641
+0,608,Philippines,2005,Emigration,3700591,total,United States of America,1596459,Canada,351848,Saudi Arabia,311603,United Arab Emirates,202618,Japan,198241
+0,608,Philippines,2005,Immigration,133023,female,China,36289,United States of America,15493,United Kingdom,13254,Bahrain,3412,Japan,3019
+0,608,Philippines,2005,Immigration,124445,male,China,35277,United Kingdom,13944,United States of America,13626,Bahrain,3371,Dem. People's Republic of Korea,2368
+0,608,Philippines,2005,Immigration,257468,total,China,71566,United States of America,29119,United Kingdom,27198,Bahrain,6783,Japan,5057
+0,608,Philippines,2010,Emigration,2152376,female,United States of America,710587,United Arab Emirates,361175,Saudi Arabia,230033,Canada,185151,Japan,94533
+0,608,Philippines,2010,Emigration,2552543,male,United States of America,1132530,Canada,269189,Saudi Arabia,173977,Japan,115648,Australia,115570
+0,608,Philippines,2010,Emigration,4704919,total,United States of America,1843117,United Arab Emirates,474063,Canada,454340,Saudi Arabia,404010,Japan,210181
+0,608,Philippines,2010,Immigration,107933,female,United States of America,17968,China,17245,Japan,7860,India,6020,Republic of Korea,3585
+0,608,Philippines,2010,Immigration,100666,male,China,18153,United States of America,17047,Japan,5677,India,4456,Republic of Korea,3214
+0,608,Philippines,2010,Immigration,208599,total,China,35398,United States of America,35015,Japan,13537,India,10476,Republic of Korea,6799
+0,608,Philippines,2015,Emigration,2499163,female,United States of America,763758,United Arab Emirates,394677,Saudi Arabia,285263,Canada,207059,Qatar,126604
+0,608,Philippines,2015,Emigration,2924160,male,United States of America,1245837,Canada,301039,Saudi Arabia,230960,Australia,135985,Japan,127199
+0,608,Philippines,2015,Emigration,5423323,total,United States of America,2009595,United Arab Emirates,518025,Saudi Arabia,516223,Canada,508098,Japan,229613
+0,608,Philippines,2015,Immigration,109783,female,United States of America,18277,China,17544,Japan,7992,India,6120,Republic of Korea,3647
+0,608,Philippines,2015,Immigration,102079,male,China,18408,United States of America,17287,Japan,5757,India,4519,Republic of Korea,3259
+0,608,Philippines,2015,Immigration,211862,total,China,35952,United States of America,35564,Japan,13749,India,10639,Republic of Korea,6906
+0,608,Philippines,2017,Emigration,2621139,female,United States of America,789092,United Arab Emirates,410346,Saudi Arabia,315773,Canada,215274,Kuwait,139295
+0,608,Philippines,2017,Emigration,3059543,male,United States of America,1287161,Canada,312983,Saudi Arabia,268212,Australia,143142,Japan,132286
+0,608,Philippines,2017,Emigration,5680682,total,United States of America,2076253,Saudi Arabia,583985,United Arab Emirates,538590,Canada,528257,Japan,238797
+0,608,Philippines,2017,Immigration,113239,female,United States of America,18853,China,18096,Japan,8243,India,6312,Republic of Korea,3762
+0,608,Philippines,2017,Immigration,105291,male,China,18987,United States of America,17830,Japan,5938,India,4661,Republic of Korea,3361
+0,608,Philippines,2017,Immigration,218530,total,China,37083,United States of America,36683,Japan,14181,India,10973,Republic of Korea,7123
+0,704,Viet Nam,1990,Emigration,635164,female,United States of America,279380,Australia,71083,Canada,53063,France,47528,Germany,40331
+0,704,Viet Nam,1990,Emigration,600184,male,United States of America,263882,Australia,65835,Canada,55934,France,51567,Germany,29263
+0,704,Viet Nam,1990,Emigration,1235348,total,United States of America,543262,Australia,136918,Canada,108997,France,99095,Germany,69594
+0,704,Viet Nam,1990,Immigration,15230,female,Cambodia,11456,Thailand,629,Myanmar,569,Indonesia,488,Lao People's Democratic Republic,457
+0,704,Viet Nam,1990,Immigration,12888,male,Cambodia,9694,Thailand,589,Lao People's Democratic Republic,576,Myanmar,394,Indonesia,305
+0,704,Viet Nam,1990,Immigration,28118,total,Cambodia,21150,Thailand,1218,Lao People's Democratic Republic,1033,Myanmar,963,Indonesia,793
+0,704,Viet Nam,1995,Emigration,803973,female,United States of America,400638,Australia,79267,Canada,61658,France,48168,Germany,41503
+0,704,Viet Nam,1995,Emigration,764719,male,United States of America,375329,Australia,78131,Canada,65677,France,54130,Germany,33962
+0,704,Viet Nam,1995,Emigration,1568692,total,United States of America,775967,Australia,157398,Canada,127335,France,102298,Germany,75465
+0,704,Viet Nam,1995,Immigration,28187,female,Cambodia,18916,Thailand,1623,Myanmar,1552,Indonesia,1281,Lao People's Democratic Republic,921
+0,704,Viet Nam,1995,Immigration,23075,male,Cambodia,15484,Thailand,1372,Myanmar,1138,Lao People's Democratic Republic,968,Indonesia,916
+0,704,Viet Nam,1995,Immigration,51262,total,Cambodia,34400,Thailand,2995,Myanmar,2690,Indonesia,2197,Lao People's Democratic Republic,1889
+0,704,Viet Nam,2000,Emigration,962275,female,United States of America,524898,Australia,80530,Canada,71734,France,48808,Germany,42675
+0,704,Viet Nam,2000,Emigration,912202,male,United States of America,488368,Australia,83190,Canada,76967,France,56693,Germany,38660
+0,704,Viet Nam,2000,Emigration,1874477,total,United States of America,1013266,Australia,163720,Canada,148701,France,105501,Germany,81335
+0,704,Viet Nam,2000,Immigration,32825,female,Cambodia,9223,Thailand,4119,Myanmar,4087,Indonesia,3387,Lao People's Democratic Republic,2130
+0,704,Viet Nam,2000,Immigration,23929,male,Cambodia,6722,Thailand,3026,Myanmar,2720,Indonesia,2275,Lao People's Democratic Republic,1864
+0,704,Viet Nam,2000,Immigration,56754,total,Cambodia,15945,Thailand,7145,Myanmar,6807,Indonesia,5662,Lao People's Democratic Republic,3994
+0,704,Viet Nam,2005,Emigration,1069196,female,United States of America,576108,Australia,83940,Canada,72280,France,55090,Germany,43276
+0,704,Viet Nam,2005,Emigration,1015693,male,United States of America,530325,Australia,90500,Canada,79323,France,63614,Germany,43694
+0,704,Viet Nam,2005,Emigration,2084889,total,United States of America,1106433,Australia,174440,Canada,151603,France,118704,Germany,86970
+0,704,Viet Nam,2005,Immigration,31106,female,Myanmar,5012,Thailand,4896,Indonesia,3594,Lao People's Democratic Republic,2742,Bangladesh,2399
+0,704,Viet Nam,2005,Immigration,20662,male,Thailand,3252,Myanmar,2822,Indonesia,2267,Lao People's Democratic Republic,2199,Bangladesh,1730
+0,704,Viet Nam,2005,Immigration,51768,total,Thailand,8148,Myanmar,7834,Indonesia,5861,Lao People's Democratic Republic,4941,Bangladesh,4129
+0,704,Viet Nam,2010,Emigration,1195832,female,United States of America,635422,Australia,95320,Canada,78097,France,52538,Malaysia,50984
+0,704,Viet Nam,2010,Emigration,1159013,male,United States of America,600578,Australia,108480,Canada,87028,France,63697,Germany,47781
+0,704,Viet Nam,2010,Emigration,2354845,total,United States of America,1236000,Australia,203800,Canada,165125,France,116235,Germany,91388
+0,704,Viet Nam,2010,Immigration,35971,female,Myanmar,5904,Thailand,5596,Indonesia,3867,Bangladesh,3596,Lao People's Democratic Republic,3202
+0,704,Viet Nam,2010,Immigration,25785,male,Thailand,3974,Myanmar,3452,Bangladesh,2944,Lao People's Democratic Republic,2779,Indonesia,2644
+0,704,Viet Nam,2010,Immigration,61756,total,Thailand,9570,Myanmar,9356,Bangladesh,6540,Indonesia,6511,Lao People's Democratic Republic,5981
+0,704,Viet Nam,2015,Emigration,1294235,female,United States of America,667603,Australia,104690,Canada,87337,Republic of Korea,60218,France,57217
+0,704,Viet Nam,2015,Emigration,1332689,male,United States of America,696222,Australia,122608,Canada,97325,France,70776,Republic of Korea,53372
+0,704,Viet Nam,2015,Emigration,2626924,total,United States of America,1363825,Australia,227298,Canada,184662,France,127993,Republic of Korea,113590
+0,704,Viet Nam,2015,Immigration,42168,female,Myanmar,6801,Thailand,6708,Indonesia,4637,Bangladesh,4306,Lao People's Democratic Republic,3965
+0,704,Viet Nam,2015,Immigration,30625,male,Thailand,4844,Myanmar,4386,Bangladesh,3589,Indonesia,3223,Lao People's Democratic Republic,2991
+0,704,Viet Nam,2015,Immigration,72793,total,Thailand,11552,Myanmar,11187,Bangladesh,7895,Indonesia,7860,Lao People's Democratic Republic,6956
+0,704,Viet Nam,2017,Emigration,1342913,female,United States of America,689748,Australia,109246,Canada,90802,Republic of Korea,60681,France,56970
+0,704,Viet Nam,2017,Emigration,1384485,male,United States of America,719315,Australia,129061,Canada,101186,France,70887,Germany,58831
+0,704,Viet Nam,2017,Emigration,2727398,total,United States of America,1409063,Australia,238307,Canada,191988,France,127857,Republic of Korea,114462
+0,704,Viet Nam,2017,Immigration,44087,female,Myanmar,7110,Thailand,7013,Indonesia,4848,Bangladesh,4502,Lao People's Democratic Republic,4146
+0,704,Viet Nam,2017,Immigration,32017,male,Thailand,5064,Myanmar,4585,Bangladesh,3752,Indonesia,3369,Lao People's Democratic Republic,3126
+0,704,Viet Nam,2017,Immigration,76104,total,Thailand,12077,Myanmar,11695,Bangladesh,8254,Indonesia,8217,Lao People's Democratic Republic,7272
+0,4,Afghanistan,1990,Emigration,3661547,female,Iran (Islamic Republic of),1788296,Pakistan,1673100,Saudi Arabia,110590,Germany,21242,United States of America,15757
+0,4,Afghanistan,1990,Emigration,3063134,male,Pakistan,1603573,Iran (Islamic Republic of),1335672,Saudi Arabia,55665,United States of America,12687,Germany,12037
+0,4,Afghanistan,1990,Emigration,6724681,total,Pakistan,3276673,Iran (Islamic Republic of),3123968,Saudi Arabia,166255,Germany,33279,United States of America,28444
+0,4,Afghanistan,1990,Immigration,32558,female,Tajikistan,22879,Pakistan,4576,Uzbekistan,1144,Afghanistan,0,Papua New Guinea,0
+0,4,Afghanistan,1990,Immigration,25128,male,Tajikistan,17658,Pakistan,3531,Uzbekistan,883,Afghanistan,0,Papua New Guinea,0
+0,4,Afghanistan,1990,Immigration,57686,total,Tajikistan,40537,Pakistan,8107,Uzbekistan,2027,Afghanistan,0,Papua New Guinea,0
+0,4,Afghanistan,1995,Emigration,2040736,female,Iran (Islamic Republic of),1186056,Pakistan,620083,Saudi Arabia,113637,Germany,29287,United States of America,20837
+0,4,Afghanistan,1995,Emigration,1584835,male,Iran (Islamic Republic of),843379,Pakistan,592489,Saudi Arabia,56751,Germany,22250,United States of America,16475
+0,4,Afghanistan,1995,Emigration,3625571,total,Iran (Islamic Republic of),2029435,Pakistan,1212572,Saudi Arabia,170388,Germany,51537,United States of America,37312
+0,4,Afghanistan,1995,Immigration,39105,female,Tajikistan,20733,Pakistan,9722,Uzbekistan,1036,Afghanistan,0,Papua New Guinea,0
+0,4,Afghanistan,1995,Immigration,32417,male,Tajikistan,16000,Pakistan,7503,Uzbekistan,800,Afghanistan,0,Papua New Guinea,0
+0,4,Afghanistan,1995,Immigration,71522,total,Tajikistan,36733,Pakistan,17225,Uzbekistan,1836,Afghanistan,0,Papua New Guinea,0
+0,4,Afghanistan,2000,Emigration,2592687,female,Iran (Islamic Republic of),1248844,Pakistan,1074476,Saudi Arabia,117007,Germany,37331,United States of America,26035
+0,4,Afghanistan,2000,Emigration,1948472,male,Pakistan,935211,Iran (Islamic Republic of),839020,Saudi Arabia,58061,Germany,32463,United States of America,20307
+0,4,Afghanistan,2000,Emigration,4541159,total,Iran (Islamic Republic of),2087864,Pakistan,2009687,Saudi Arabia,175068,Germany,69794,United States of America,46342
+0,4,Afghanistan,2000,Immigration,42848,female,Tajikistan,18586,Pakistan,14868,Uzbekistan,929,Afghanistan,0,Papua New Guinea,0
+0,4,Afghanistan,2000,Immigration,33069,male,Tajikistan,14343,Pakistan,11475,Uzbekistan,717,Afghanistan,0,Papua New Guinea,0
+0,4,Afghanistan,2000,Immigration,75917,total,Tajikistan,32929,Pakistan,26343,Uzbekistan,1646,Afghanistan,0,Papua New Guinea,0
+0,4,Afghanistan,2005,Emigration,2107894,female,Iran (Islamic Republic of),1176408,Pakistan,584712,Saudi Arabia,148673,Germany,41742,United States of America,29321
+0,4,Afghanistan,2005,Emigration,1718361,male,Iran (Islamic Republic of),994597,Pakistan,508765,Saudi Arabia,67588,Germany,34082,United States of America,22644
+0,4,Afghanistan,2005,Emigration,3826255,total,Iran (Islamic Republic of),2171005,Pakistan,1093477,Saudi Arabia,216261,Germany,75824,United States of America,51965
+0,4,Afghanistan,2005,Immigration,49274,female,Pakistan,20975,Tajikistan,16064,Uzbekistan,803,Afghanistan,0,Papua New Guinea,0
+0,4,Afghanistan,2005,Immigration,38026,male,Pakistan,16188,Tajikistan,12396,Uzbekistan,619,Afghanistan,0,Papua New Guinea,0
+0,4,Afghanistan,2005,Immigration,87300,total,Pakistan,37163,Tajikistan,28460,Uzbekistan,1422,Afghanistan,0,Papua New Guinea,0
+0,4,Afghanistan,2010,Emigration,2751790,female,Iran (Islamic Republic of),1335371,Pakistan,975251,Saudi Arabia,197352,Germany,45208,United Kingdom,37267
+0,4,Afghanistan,2010,Emigration,2237419,male,Iran (Islamic Republic of),1036719,Pakistan,933658,Saudi Arabia,83043,Germany,35403,United States of America,28829
+0,4,Afghanistan,2010,Emigration,4989209,total,Iran (Islamic Republic of),2372090,Pakistan,1908909,Saudi Arabia,280395,Germany,80611,United Kingdom,60757
+0,4,Afghanistan,2010,Immigration,57709,female,Pakistan,27082,Tajikistan,13541,Uzbekistan,677,Afghanistan,0,Papua New Guinea,0
+0,4,Afghanistan,2010,Immigration,44537,male,Pakistan,20902,Tajikistan,10450,Uzbekistan,522,Afghanistan,0,Papua New Guinea,0
+0,4,Afghanistan,2010,Immigration,102246,total,Pakistan,47984,Tajikistan,23991,Uzbekistan,1199,Afghanistan,0,Papua New Guinea,0
+0,4,Afghanistan,2015,Emigration,2542717,female,Iran (Islamic Republic of),1220304,Pakistan,767206,Saudi Arabia,266864,Germany,47017,United Kingdom,46377
+0,4,Afghanistan,2015,Emigration,2312659,male,Iran (Islamic Republic of),1128065,Pakistan,851481,Saudi Arabia,118377,Germany,36975,United States of America,34596
+0,4,Afghanistan,2015,Emigration,4855376,total,Iran (Islamic Republic of),2348369,Pakistan,1618687,Saudi Arabia,385241,Germany,83992,United Kingdom,76256
+0,4,Afghanistan,2015,Immigration,248212,female,Pakistan,179052,Tajikistan,6364,Uzbekistan,318,Afghanistan,0,Papua New Guinea,0
+0,4,Afghanistan,2015,Immigration,241537,male,Pakistan,169317,Tajikistan,8667,Uzbekistan,433,Afghanistan,0,Papua New Guinea,0
+0,4,Afghanistan,2015,Immigration,489749,total,Pakistan,348369,Tajikistan,15031,Uzbekistan,751,Afghanistan,0,Papua New Guinea,0
+0,4,Afghanistan,2017,Emigration,2544670,female,Iran (Islamic Republic of),1208101,Pakistan,721959,Saudi Arabia,298340,Germany,56382,United Kingdom,48586
+0,4,Afghanistan,2017,Emigration,2281794,male,Iran (Islamic Republic of),1116783,Pakistan,793779,Saudi Arabia,137470,Germany,43591,United States of America,35743
+0,4,Afghanistan,2017,Emigration,4826464,total,Iran (Islamic Republic of),2324884,Pakistan,1515738,Saudi Arabia,435810,Germany,99973,United Kingdom,80160
+0,4,Afghanistan,2017,Immigration,66738,female,Pakistan,48163,Tajikistan,1701,Uzbekistan,85,Afghanistan,0,Papua New Guinea,0
+0,4,Afghanistan,2017,Immigration,66874,male,Pakistan,46878,Tajikistan,2399,Uzbekistan,119,Afghanistan,0,Papua New Guinea,0
+0,4,Afghanistan,2017,Immigration,133612,total,Pakistan,95041,Tajikistan,4100,Uzbekistan,204,Afghanistan,0,Papua New Guinea,0
+0,368,Iraq,1990,Emigration,854938,female,Iran (Islamic Republic of),660582,Israel,37111,United States of America,25595,Sweden,22101,Saudi Arabia,21581
+0,368,Iraq,1990,Emigration,651741,male,Iran (Islamic Republic of),493387,Israel,37391,Saudi Arabia,21276,United States of America,19321,Sweden,16694
+0,368,Iraq,1990,Emigration,1506679,total,Iran (Islamic Republic of),1153969,Israel,74502,United States of America,44916,Saudi Arabia,42857,Sweden,38795
+0,368,Iraq,1990,Immigration,55751,female,Iran (Islamic Republic of),9828,State of Palestine,9515,Egypt,8898,Jordan,5522,Syrian Arab Republic,2952
+0,368,Iraq,1990,Immigration,27887,male,Iran (Islamic Republic of),5148,State of Palestine,4832,Jordan,2448,Egypt,2177,Syrian Arab Republic,1826
+0,368,Iraq,1990,Immigration,83638,total,Iran (Islamic Republic of),14976,State of Palestine,14347,Egypt,11075,Jordan,7970,Syrian Arab Republic,4778
+0,368,Iraq,1995,Emigration,758293,female,Iran (Islamic Republic of),477247,United States of America,39244,Israel,37760,Sweden,26077,Jordan,24550
+0,368,Iraq,1995,Emigration,570411,male,Iran (Islamic Republic of),356453,Israel,39505,United States of America,29061,Sweden,19961,Jordan,16281
+0,368,Iraq,1995,Emigration,1328704,total,Iran (Islamic Republic of),833700,Israel,77265,United States of America,68305,Sweden,46038,Jordan,40831
+0,368,Iraq,1995,Immigration,114821,female,State of Palestine,42738,Iran (Islamic Republic of),25623,Turkey,10300,Egypt,9848,Jordan,5787
+0,368,Iraq,1995,Immigration,84639,male,State of Palestine,31109,Iran (Islamic Republic of),19330,Turkey,7139,Jordan,3610,Egypt,3210
+0,368,Iraq,1995,Immigration,199460,total,State of Palestine,73847,Iran (Islamic Republic of),44953,Turkey,17439,Egypt,13058,Jordan,9397
+0,368,Iraq,2000,Emigration,669128,female,Iran (Islamic Republic of),309350,United States of America,53222,Germany,38302,Israel,36719,Jordan,33648
+0,368,Iraq,2000,Emigration,494852,male,Iran (Islamic Republic of),231050,Israel,38983,United States of America,38952,Jordan,22236,Sweden,21546
+0,368,Iraq,2000,Emigration,1163980,total,Iran (Islamic Republic of),540400,United States of America,92174,Israel,75702,Germany,58884,Jordan,55884
+0,368,Iraq,2000,Immigration,120464,female,State of Palestine,64522,Iran (Islamic Republic of),19779,Egypt,8585,Turkey,8201,Jordan,4643
+0,368,Iraq,2000,Immigration,90061,male,State of Palestine,29602,Iran (Islamic Republic of),22823,Turkey,5684,Jordan,4262,Egypt,3790
+0,368,Iraq,2000,Immigration,210525,total,State of Palestine,94124,Iran (Islamic Republic of),42602,Turkey,13885,Egypt,12375,Jordan,8905
+0,368,Iraq,2005,Emigration,792189,female,Syrian Arab Republic,172262,Jordan,139442,United States of America,61194,Iran (Islamic Republic of),56154,Germany,48646
+0,368,Iraq,2005,Emigration,653257,male,Syrian Arab Republic,164082,Jordan,129305,United States of America,44357,Iran (Islamic Republic of),41940,Lebanon,40365
+0,368,Iraq,2005,Emigration,1445446,total,Syrian Arab Republic,336344,Jordan,268747,United States of America,105551,Iran (Islamic Republic of),98094,Lebanon,84380
+0,368,Iraq,2005,Immigration,80883,female,State of Palestine,20228,Egypt,11062,Turkey,10237,Iran (Islamic Republic of),8077,Jordan,6695
+0,368,Iraq,2005,Immigration,52032,male,Iran (Islamic Republic of),9319,State of Palestine,9279,Turkey,7094,Jordan,3513,Egypt,3124
+0,368,Iraq,2005,Immigration,132915,total,State of Palestine,29507,Iran (Islamic Republic of),17396,Turkey,17331,Egypt,14186,Jordan,10208
+0,368,Iraq,2010,Emigration,1406069,female,Syrian Arab Republic,566275,Jordan,239229,Lebanon,73761,United States of America,69799,Sweden,64450
+0,368,Iraq,2010,Emigration,1233032,male,Syrian Arab Republic,546025,Jordan,236553,Lebanon,69630,Sweden,53911,United States of America,52718
+0,368,Iraq,2010,Emigration,2639101,total,Syrian Arab Republic,1112300,Jordan,475782,Lebanon,143391,United States of America,122517,Sweden,118361
+0,368,Iraq,2010,Immigration,72965,female,Egypt,11360,Turkey,10766,State of Palestine,9125,Iran (Islamic Republic of),8720,Jordan,6974
+0,368,Iraq,2010,Immigration,44424,male,Iran (Islamic Republic of),8848,Turkey,6736,State of Palestine,3831,Jordan,3335,Egypt,2966
+0,368,Iraq,2010,Immigration,117389,total,Iran (Islamic Republic of),17568,Turkey,17502,Egypt,14326,State of Palestine,12956,Jordan,10309
+0,368,Iraq,2015,Emigration,897446,female,Syrian Arab Republic,129236,Jordan,109393,United States of America,99483,Sweden,70379,Germany,59579
+0,368,Iraq,2015,Emigration,770626,male,Syrian Arab Republic,124373,Jordan,109283,United States of America,103747,Lebanon,62946,Sweden,60616
+0,368,Iraq,2015,Emigration,1668072,total,Syrian Arab Republic,253609,Jordan,218676,United States of America,203230,Sweden,130995,Lebanon,120739
+0,368,Iraq,2015,Immigration,209233,female,Syrian Arab Republic,140172,Egypt,11848,Turkey,9809,Iran (Islamic Republic of),8252,Jordan,7507
+0,368,Iraq,2015,Immigration,150148,male,Syrian Arab Republic,111884,Turkey,7706,Iran (Islamic Republic of),6154,State of Palestine,5302,Jordan,2829
+0,368,Iraq,2015,Immigration,359381,total,Syrian Arab Republic,252056,Turkey,17515,Iran (Islamic Republic of),14406,Egypt,14364,State of Palestine,12051
+0,368,Iraq,2017,Emigration,907050,female,Jordan,113665,Syrian Arab Republic,105456,United States of America,102783,Sweden,71643,Germany,71339
+0,368,Iraq,2017,Emigration,771990,male,Jordan,113550,United States of America,107188,Syrian Arab Republic,101488,Lebanon,61839,Sweden,61771
+0,368,Iraq,2017,Emigration,1679040,total,Jordan,227215,United States of America,209971,Syrian Arab Republic,206944,Sweden,133414,Lebanon,118659
+0,368,Iraq,2017,Immigration,213418,female,Syrian Arab Republic,142976,Egypt,12085,Turkey,10005,Iran (Islamic Republic of),8417,Jordan,7657
+0,368,Iraq,2017,Immigration,153150,male,Syrian Arab Republic,114120,Turkey,7860,Iran (Islamic Republic of),6277,State of Palestine,5408,Jordan,2885
+0,368,Iraq,2017,Immigration,366568,total,Syrian Arab Republic,257096,Turkey,17865,Iran (Islamic Republic of),14694,Egypt,14651,State of Palestine,12291
+0,586,Pakistan,1990,Emigration,1970220,female,India,1024721,Saudi Arabia,383365,United Arab Emirates,121958,United Kingdom,117858,Kuwait,88717
+0,586,Pakistan,1990,Emigration,1371354,male,India,896557,Saudi Arabia,173350,United Kingdom,110463,Kuwait,41211,United Arab Emirates,36752
+0,586,Pakistan,1990,Emigration,3341574,total,India,1921278,Saudi Arabia,556715,United Kingdom,228321,United Arab Emirates,158710,Kuwait,129928
+0,586,Pakistan,1990,Immigration,3264380,female,Afghanistan,1673100,India,1583095,Iran (Islamic Republic of),2246,Myanmar,1873,Sri Lanka,464
+0,586,Pakistan,1990,Immigration,2943824,male,Afghanistan,1603573,India,1333453,Iran (Islamic Republic of),1862,Myanmar,1725,Iraq,435
+0,586,Pakistan,1990,Immigration,6208204,total,Afghanistan,3276673,India,2916548,Iran (Islamic Republic of),4108,Myanmar,3598,Iraq,894
+0,586,Pakistan,1995,Emigration,1995667,female,India,863727,Saudi Arabia,393823,United Arab Emirates,172353,United Kingdom,137138,United States of America,104027
+0,586,Pakistan,1995,Emigration,1347868,male,India,773528,Saudi Arabia,176732,United Kingdom,130039,United States of America,55766,United Arab Emirates,53397
+0,586,Pakistan,1995,Emigration,3343535,total,India,1637255,Saudi Arabia,570555,United Kingdom,267177,United Arab Emirates,225750,United States of America,159793
+0,586,Pakistan,1995,Immigration,1951223,female,India,1324803,Afghanistan,620083,Iran (Islamic Republic of),1685,Myanmar,1559,Indonesia,283
+0,586,Pakistan,1995,Immigration,1718085,male,India,1120376,Afghanistan,592489,Myanmar,1441,Iran (Islamic Republic of),1375,Iraq,226
+0,586,Pakistan,1995,Immigration,3669308,total,India,2445179,Afghanistan,1212572,Iran (Islamic Republic of),3060,Myanmar,3000,Indonesia,502
+0,586,Pakistan,2000,Emigration,2055796,female,India,702733,Saudi Arabia,405412,United Arab Emirates,232033,United Kingdom,158388,United States of America,149665
+0,586,Pakistan,2000,Emigration,1342609,male,India,650498,Saudi Arabia,180813,United Kingdom,152138,United States of America,79486,United Arab Emirates,73749
+0,586,Pakistan,2000,Emigration,3398405,total,India,1353231,Saudi Arabia,586225,United Kingdom,310526,United Arab Emirates,305782,United States of America,229151
+0,586,Pakistan,2000,Immigration,2249960,female,India,1169500,Afghanistan,1074476,Iran (Islamic Republic of),1620,Myanmar,1382,Iraq,310
+0,586,Pakistan,2000,Immigration,1931952,male,India,991829,Afghanistan,935211,Iran (Islamic Republic of),1320,Myanmar,1280,Iraq,276
+0,586,Pakistan,2000,Immigration,4181912,total,India,2161329,Afghanistan,2009687,Iran (Islamic Republic of),2940,Myanmar,2662,Iraq,586
+0,586,Pakistan,2005,Emigration,2387732,female,India,647902,Saudi Arabia,511418,United Arab Emirates,295139,United Kingdom,195270,United States of America,131001
+0,586,Pakistan,2005,Emigration,1508762,male,India,602405,Saudi Arabia,212742,United Kingdom,185068,United States of America,130536,United Arab Emirates,88672
+0,586,Pakistan,2005,Emigration,3896494,total,India,1250307,Saudi Arabia,724160,United Arab Emirates,383811,United Kingdom,380338,United States of America,261537
+0,586,Pakistan,2005,Immigration,1708514,female,India,1118565,Afghanistan,584712,Myanmar,1325,Iran (Islamic Republic of),1319,Indonesia,239
+0,586,Pakistan,2005,Immigration,1462618,male,India,949582,Afghanistan,508765,Myanmar,1226,Iran (Islamic Republic of),1062,Indonesia,184
+0,586,Pakistan,2005,Immigration,3171132,total,India,2068147,Afghanistan,1093477,Myanmar,2551,Iran (Islamic Republic of),2381,Indonesia,423
+0,586,Pakistan,2010,Emigration,3242092,female,Saudi Arabia,680304,United Arab Emirates,657520,India,593071,United Kingdom,249836,Kuwait,169400
+0,586,Pakistan,2010,Emigration,1764661,male,India,554311,Saudi Arabia,258609,United Kingdom,231277,United Arab Emirates,178790,United States of America,153209
+0,586,Pakistan,2010,Emigration,5006753,total,India,1147382,Saudi Arabia,938913,United Arab Emirates,836310,United Kingdom,481113,United States of America,302798
+0,586,Pakistan,2010,Immigration,2074443,female,India,1093934,Afghanistan,975251,Iran (Islamic Republic of),1297,Myanmar,1287,Sri Lanka,346
+0,586,Pakistan,2010,Immigration,1867143,male,Afghanistan,933658,India,929143,Myanmar,1192,Iran (Islamic Republic of),1048,Sri Lanka,317
+0,586,Pakistan,2010,Immigration,3941586,total,India,2023077,Afghanistan,1908909,Myanmar,2479,Iran (Islamic Republic of),2345,Sri Lanka,663
+0,586,Pakistan,2015,Emigration,3802586,female,Saudi Arabia,844721,United Arab Emirates,718509,India,571138,United Kingdom,258219,Kuwait,224082
+0,586,Pakistan,2015,Emigration,2119719,male,India,535074,Saudi Arabia,343096,United Kingdom,245321,United Arab Emirates,195357,United States of America,182991
+0,586,Pakistan,2015,Emigration,5922305,total,Saudi Arabia,1187817,India,1106212,United Arab Emirates,913866,United Kingdom,503540,United States of America,358463
+0,586,Pakistan,2015,Immigration,1854136,female,India,1081815,Afghanistan,767206,Myanmar,1279,Iran (Islamic Republic of),1272,Sri Lanka,286
+0,586,Pakistan,2015,Immigration,1774820,male,India,919093,Afghanistan,851481,Myanmar,1181,Iran (Islamic Republic of),1029,Sri Lanka,292
+0,586,Pakistan,2015,Immigration,3628956,total,India,2000908,Afghanistan,1618687,Myanmar,2460,Iran (Islamic Republic of),2301,Sri Lanka,578
+0,586,Pakistan,2017,Emigration,3886885,female,Saudi Arabia,945303,United Arab Emirates,747033,India,565426,United Kingdom,270085,Kuwait,250122
+0,586,Pakistan,2017,Emigration,2091750,male,India,529723,Saudi Arabia,398434,United Kingdom,259239,United Arab Emirates,203112,United States of America,189060
+0,586,Pakistan,2017,Emigration,5978635,total,Saudi Arabia,1343737,India,1095149,United Arab Emirates,950145,United Kingdom,529324,United States of America,370353
+0,586,Pakistan,2017,Immigration,1743606,female,India,1016841,Afghanistan,721959,Myanmar,1203,Iran (Islamic Republic of),1195,Sri Lanka,269
+0,586,Pakistan,2017,Immigration,1654548,male,India,856809,Afghanistan,793779,Myanmar,1100,Iran (Islamic Republic of),959,Sri Lanka,272
+0,586,Pakistan,2017,Immigration,3398154,total,India,1873650,Afghanistan,1515738,Myanmar,2303,Iran (Islamic Republic of),2154,Sri Lanka,541
+0,760,Syrian Arab Republic,1990,Emigration,354953,female,Saudi Arabia,172718,Jordan,28760,United States of America,21141,Lebanon,13138,Germany,10588
+0,760,Syrian Arab Republic,1990,Emigration,265915,male,Saudi Arabia,133120,Jordan,22797,United States of America,15641,Lebanon,10415,Libya,6935
+0,760,Syrian Arab Republic,1990,Emigration,620868,total,Saudi Arabia,305838,Jordan,51557,United States of America,36782,Lebanon,23553,Germany,15330
+0,760,Syrian Arab Republic,1990,Immigration,364077,female,State of Palestine,125212,Iraq,1932,Somalia,102,Afghanistan,0,New Caledonia,0
+0,760,Syrian Arab Republic,1990,Immigration,350063,male,State of Palestine,119495,Iraq,1893,Somalia,98,Afghanistan,0,New Caledonia,0
+0,760,Syrian Arab Republic,1990,Immigration,714140,total,State of Palestine,244707,Iraq,3825,Somalia,200,Afghanistan,0,New Caledonia,0
+0,760,Syrian Arab Republic,1995,Emigration,379385,female,Saudi Arabia,177724,Jordan,30463,United States of America,26795,Lebanon,13322,Germany,12480
+0,760,Syrian Arab Republic,1995,Emigration,282084,male,Saudi Arabia,135717,Jordan,24122,United States of America,19487,Lebanon,11534,Germany,7743
+0,760,Syrian Arab Republic,1995,Emigration,661469,total,Saudi Arabia,313441,Jordan,54585,United States of America,46282,Lebanon,24856,Germany,20223
+0,760,Syrian Arab Republic,1995,Immigration,423115,female,State of Palestine,145829,Iraq,1528,Somalia,175,Afghanistan,47,Sudan,24
+0,760,Syrian Arab Republic,1995,Immigration,407495,male,State of Palestine,143635,Iraq,1508,Somalia,170,Afghanistan,45,Sudan,24
+0,760,Syrian Arab Republic,1995,Immigration,830610,total,State of Palestine,289464,Iraq,3036,Somalia,345,Afghanistan,92,Sudan,48
+0,760,Syrian Arab Republic,2000,Emigration,406921,female,Saudi Arabia,183199,United States of America,32575,Jordan,32278,United Arab Emirates,15784,Germany,14373
+0,760,Syrian Arab Republic,2000,Emigration,299578,male,Saudi Arabia,138851,Jordan,25346,United States of America,23371,Lebanon,12652,Germany,10743
+0,760,Syrian Arab Republic,2000,Emigration,706499,total,Saudi Arabia,322050,Jordan,57624,United States of America,55946,Lebanon,26159,Germany,25116
+0,760,Syrian Arab Republic,2000,Immigration,426633,female,State of Palestine,196080,Iraq,924,Somalia,224,Afghanistan,87,Sudan,46
+0,760,Syrian Arab Republic,2000,Immigration,405640,male,State of Palestine,187119,Iraq,905,Somalia,219,Afghanistan,85,Sudan,45
+0,760,Syrian Arab Republic,2000,Immigration,832273,total,State of Palestine,383199,Iraq,1829,Somalia,443,Afghanistan,172,Sudan,91
+0,760,Syrian Arab Republic,2005,Emigration,510647,female,Saudi Arabia,236194,Jordan,64877,United States of America,28837,Germany,20554,Libya,16015
+0,760,Syrian Arab Republic,2005,Emigration,351112,male,Saudi Arabia,161632,Jordan,39914,United States of America,28732,Germany,14341,Lebanon,10762
+0,760,Syrian Arab Republic,2005,Emigration,861759,total,Saudi Arabia,397826,Jordan,104791,United States of America,57569,Germany,34895,Lebanon,23419
+0,760,Syrian Arab Republic,2005,Immigration,449470,female,State of Palestine,224674,Iraq,172262,Somalia,576,Afghanistan,320,Sudan,113
+0,760,Syrian Arab Republic,2005,Immigration,426940,male,State of Palestine,215417,Iraq,164082,Somalia,550,Afghanistan,306,Sudan,108
+0,760,Syrian Arab Republic,2005,Immigration,876410,total,State of Palestine,440091,Iraq,336344,Somalia,1126,Afghanistan,626,Sudan,221
+0,760,Syrian Arab Republic,2010,Emigration,659399,female,Saudi Arabia,317211,Jordan,95148,United Arab Emirates,31106,United States of America,30138,Germany,25703
+0,760,Syrian Arab Republic,2010,Emigration,420350,male,Saudi Arabia,198592,Jordan,54537,United States of America,30865,Germany,17256,United Arab Emirates,13312
+0,760,Syrian Arab Republic,2010,Emigration,1079749,total,Saudi Arabia,515803,Jordan,149685,United States of America,61003,United Arab Emirates,44418,Germany,42959
+0,760,Syrian Arab Republic,2010,Immigration,911756,female,Iraq,566275,State of Palestine,253267,Somalia,1409,Afghanistan,822,Sudan,275
+0,760,Syrian Arab Republic,2010,Immigration,873359,male,Iraq,546025,State of Palestine,243716,Somalia,1353,Afghanistan,789,Sudan,264
+0,760,Syrian Arab Republic,2010,Immigration,1785115,total,Iraq,1112300,State of Palestine,496983,Somalia,2762,Afghanistan,1611,Sudan,539
+0,760,Syrian Arab Republic,2015,Emigration,3220325,female,Turkey,1384247,Lebanon,592918,Saudi Arabia,393766,Jordan,297030,Iraq,140172
+0,760,Syrian Arab Republic,2015,Emigration,3018147,male,Turkey,1384247,Lebanon,637566,Jordan,346675,Saudi Arabia,265301,Iraq,111884
+0,760,Syrian Arab Republic,2015,Emigration,6238472,total,Turkey,2768494,Lebanon,1230484,Saudi Arabia,659067,Jordan,643705,Iraq,252056
+0,760,Syrian Arab Republic,2015,Immigration,507660,female,State of Palestine,315004,Iraq,129236,Somalia,1295,Afghanistan,914,Sudan,287
+0,760,Syrian Arab Republic,2015,Immigration,486280,male,State of Palestine,303124,Iraq,124373,Somalia,1243,Afghanistan,877,Sudan,275
+0,760,Syrian Arab Republic,2015,Immigration,993940,total,State of Palestine,618128,Iraq,253609,Somalia,2538,Afghanistan,1791,Sudan,562
+0,760,Syrian Arab Republic,2017,Emigration,3532725,female,Turkey,1635767,Lebanon,582929,Saudi Arabia,437488,Jordan,308630,Iraq,142976
+0,760,Syrian Arab Republic,2017,Emigration,3331720,male,Turkey,1635766,Lebanon,626357,Jordan,360212,Saudi Arabia,308092,Iraq,114120
+0,760,Syrian Arab Republic,2017,Emigration,6864445,total,Turkey,3271533,Lebanon,1209286,Saudi Arabia,745580,Jordan,668842,Iraq,257096
+0,760,Syrian Arab Republic,2017,Immigration,517813,female,State of Palestine,321304,Iraq,105456,Somalia,1321,Afghanistan,932,Sudan,293
+0,760,Syrian Arab Republic,2017,Immigration,496005,male,State of Palestine,309186,Iraq,101488,Somalia,1267,Afghanistan,894,Sudan,280
+0,760,Syrian Arab Republic,2017,Immigration,1013818,total,State of Palestine,630490,Iraq,206944,Somalia,2588,Afghanistan,1826,Sudan,573
+0,231,Ethiopia,1990,Emigration,854717,female,Sudan,463796,Somalia,234861,Saudi Arabia,40588,Israel,20567,United States of America,18499
+0,231,Ethiopia,1990,Emigration,832800,male,Sudan,478499,Somalia,225139,Saudi Arabia,20429,Israel,20028,United States of America,16306
+0,231,Ethiopia,1990,Emigration,1687517,total,Sudan,942295,Somalia,460000,Saudi Arabia,61017,Israel,40595,United States of America,34805
+0,231,Ethiopia,1990,Immigration,607284,female,Somalia,324269,South Sudan,201974,Eritrea,36625,Sudan,28308,Djibouti,475
+0,231,Ethiopia,1990,Immigration,548106,male,Somalia,292671,South Sudan,182292,Eritrea,33056,Sudan,25549,Djibouti,429
+0,231,Ethiopia,1990,Immigration,1155390,total,Somalia,616940,South Sudan,384266,Eritrea,69681,Sudan,53857,Djibouti,904
+0,231,Ethiopia,1995,Emigration,422056,female,Sudan,248547,Saudi Arabia,41706,United States of America,28370,Israel,25090,Kenya,16825
+0,231,Ethiopia,1995,Emigration,398434,male,Sudan,254193,Israel,25197,United States of America,24496,Saudi Arabia,20828,Kenya,12696
+0,231,Ethiopia,1995,Emigration,820490,total,Sudan,502740,Saudi Arabia,62534,United States of America,52866,Israel,50287,Kenya,29521
+0,231,Ethiopia,1995,Immigration,424117,female,Somalia,231129,South Sudan,129959,Eritrea,18680,Sudan,18214,Djibouti,1154
+0,231,Ethiopia,1995,Immigration,382787,male,Somalia,228486,South Sudan,105553,Eritrea,16269,Sudan,14794,Djibouti,747
+0,231,Ethiopia,1995,Immigration,806904,total,Somalia,459615,South Sudan,235512,Eritrea,34949,Sudan,33008,Djibouti,1901
+0,231,Ethiopia,2000,Emigration,238297,female,Sudan,62843,Saudi Arabia,42943,United States of America,38482,Israel,28478,Kenya,11399
+0,231,Ethiopia,2000,Emigration,205629,male,Sudan,60635,United States of America,32814,Israel,28685,Saudi Arabia,21309,Kenya,9447
+0,231,Ethiopia,2000,Emigration,443926,total,Sudan,123478,United States of America,71296,Saudi Arabia,64252,Israel,57163,Kenya,20846
+0,231,Ethiopia,2000,Immigration,322219,female,Somalia,182322,South Sudan,82820,Sudan,11608,Eritrea,4313,Djibouti,2053
+0,231,Ethiopia,2000,Immigration,289165,male,Somalia,207097,South Sudan,48585,Sudan,6809,Eritrea,2530,Djibouti,1205
+0,231,Ethiopia,2000,Immigration,611384,total,Somalia,389419,South Sudan,131405,Sudan,18417,Eritrea,6843,Djibouti,3258
+0,231,Ethiopia,2005,Emigration,282510,female,United States of America,59576,Sudan,55315,Saudi Arabia,54566,Israel,33443,Kenya,11759
+0,231,Ethiopia,2005,Emigration,238578,male,Sudan,52417,United States of America,50282,Israel,33746,Saudi Arabia,24805,Italy,10752
+0,231,Ethiopia,2005,Emigration,521088,total,United States of America,109858,Sudan,107732,Saudi Arabia,79371,Israel,67189,Kenya,20917
+0,231,Ethiopia,2005,Immigration,269725,female,Somalia,161785,South Sudan,63903,Sudan,8957,Eritrea,3328,Djibouti,1583
+0,231,Ethiopia,2005,Immigration,244517,male,Somalia,165760,South Sudan,46624,Sudan,6534,Eritrea,2428,Djibouti,1157
+0,231,Ethiopia,2005,Immigration,514242,total,Somalia,327545,South Sudan,110527,Sudan,15491,Eritrea,5756,Djibouti,2740
+0,231,Ethiopia,2010,Emigration,338561,female,United States of America,81900,Saudi Arabia,72127,Israel,38744,Sudan,36247,Kenya,13043
+0,231,Ethiopia,2010,Emigration,285001,male,United States of America,70898,Israel,39285,Sudan,34430,Saudi Arabia,30783,Italy,17529
+0,231,Ethiopia,2010,Emigration,623562,total,United States of America,152798,Saudi Arabia,102910,Israel,78029,Sudan,70677,Italy,30396
+0,231,Ethiopia,2010,Immigration,297534,female,Somalia,189516,South Sudan,63950,Sudan,8963,Eritrea,3329,Djibouti,1584
+0,231,Ethiopia,2010,Immigration,270186,male,Somalia,172093,South Sudan,58071,Sudan,8139,Eritrea,3025,Djibouti,1441
+0,231,Ethiopia,2010,Immigration,567720,total,Somalia,361609,South Sudan,122021,Sudan,17102,Eritrea,6354,Djibouti,3025
+0,231,Ethiopia,2015,Emigration,400192,female,United States of America,103247,Saudi Arabia,91518,Israel,39760,Sudan,31232,Kenya,20032
+0,231,Ethiopia,2015,Emigration,353049,male,United States of America,107670,Israel,40714,Saudi Arabia,39975,Sudan,29502,Italy,17846
+0,231,Ethiopia,2015,Emigration,753241,total,United States of America,210917,Saudi Arabia,131493,Israel,80474,Sudan,60734,Kenya,36889
+0,231,Ethiopia,2015,Immigration,591876,female,Somalia,225826,South Sudan,209303,Eritrea,104046,Sudan,20012,Djibouti,1889
+0,231,Ethiopia,2015,Immigration,570700,male,Somalia,217084,South Sudan,185899,Eritrea,101984,Sudan,19527,Djibouti,1816
+0,231,Ethiopia,2015,Immigration,1162576,total,Somalia,442910,South Sudan,395202,Eritrea,206030,Sudan,39539,Djibouti,3705
+0,231,Ethiopia,2017,Emigration,426933,female,United States of America,106672,Saudi Arabia,102331,Israel,38779,Sudan,36703,Kenya,19924
+0,231,Ethiopia,2017,Emigration,373946,male,United States of America,111241,Saudi Arabia,46422,Israel,39710,Sudan,34928,Italy,18116
+0,231,Ethiopia,2017,Emigration,800879,total,United States of America,217913,Saudi Arabia,148753,Israel,78489,Sudan,71631,Kenya,36692
+0,231,Ethiopia,2017,Immigration,624222,female,Somalia,238168,South Sudan,220756,Eritrea,109731,Sudan,21105,Djibouti,1992
+0,231,Ethiopia,2017,Immigration,602921,male,Somalia,229340,South Sudan,196394,Eritrea,107741,Sudan,20629,Djibouti,1918
+0,231,Ethiopia,2017,Immigration,1227143,total,Somalia,467508,South Sudan,417150,Eritrea,217472,Sudan,41734,Djibouti,3910
+0,288,Ghana,1990,Emigration,188537,female,Nigeria,42256,Côte d'Ivoire,39197,United Kingdom,15509,Germany,14758,Italy,14729
+0,288,Ghana,1990,Emigration,184766,male,Côte d'Ivoire,60290,Nigeria,33066,United Kingdom,16363,Burkina Faso,16008,Italy,10364
+0,288,Ghana,1990,Emigration,373303,total,Côte d'Ivoire,99487,Nigeria,75322,United Kingdom,31872,Italy,25093,Burkina Faso,24542
+0,288,Ghana,1990,Immigration,83030,female,Togo,27448,Burkina Faso,22731,Nigeria,7872,Liberia,5296,Benin,4483
+0,288,Ghana,1990,Immigration,81821,male,Togo,34105,Burkina Faso,18937,Nigeria,7004,Liberia,4528,Benin,4476
+0,288,Ghana,1990,Immigration,164851,total,Togo,61553,Burkina Faso,41668,Nigeria,14876,Liberia,9824,Benin,8959
+0,288,Ghana,1995,Emigration,216243,female,Nigeria,45306,Côte d'Ivoire,35286,United States of America,27742,United Kingdom,20676,Italy,16817
+0,288,Ghana,1995,Emigration,212803,male,Côte d'Ivoire,55150,Nigeria,35970,United Kingdom,22027,Burkina Faso,19874,United States of America,16066
+0,288,Ghana,1995,Emigration,429046,total,Côte d'Ivoire,90436,Nigeria,81276,United States of America,43808,United Kingdom,42703,Burkina Faso,30522
+0,288,Ghana,1995,Immigration,127423,female,Togo,64743,Burkina Faso,24463,Nigeria,8515,Liberia,7838,Benin,4895
+0,288,Ghana,1995,Immigration,125456,male,Togo,79378,Burkina Faso,17063,Liberia,6700,Nigeria,6311,Benin,4033
+0,288,Ghana,1995,Immigration,252879,total,Togo,144121,Burkina Faso,41526,Nigeria,14826,Liberia,14538,Benin,8928
+0,288,Ghana,2000,Emigration,240635,female,Nigeria,50112,United States of America,42709,United Kingdom,26135,Côte d'Ivoire,25832,Italy,18906
+0,288,Ghana,2000,Emigration,227644,male,Côte d'Ivoire,40647,Nigeria,40367,United Kingdom,28119,United States of America,24528,Burkina Faso,18781
+0,288,Ghana,2000,Emigration,468279,total,Nigeria,90479,United States of America,67237,Côte d'Ivoire,66479,United Kingdom,54254,Italy,34369
+0,288,Ghana,2000,Immigration,97279,female,Togo,32371,Burkina Faso,25613,Nigeria,8877,Liberia,7054,Benin,5062
+0,288,Ghana,2000,Immigration,94322,male,Togo,39689,Burkina Faso,20838,Nigeria,7707,Liberia,6030,Benin,4925
+0,288,Ghana,2000,Immigration,191601,total,Togo,72060,Burkina Faso,46451,Nigeria,16584,Liberia,13084,Benin,9987
+0,288,Ghana,2005,Emigration,335699,female,Nigeria,104666,United States of America,57323,United Kingdom,33484,Italy,23800,Côte d'Ivoire,20583
+0,288,Ghana,2005,Emigration,280475,male,Nigeria,75090,United Kingdom,36561,United States of America,32636,Côte d'Ivoire,32352,Burkina Faso,17541
+0,288,Ghana,2005,Emigration,616174,total,Nigeria,179756,United States of America,89959,United Kingdom,70045,Côte d'Ivoire,52935,Italy,40455
+0,288,Ghana,2005,Immigration,159363,female,Togo,38722,Burkina Faso,37777,Liberia,27205,Nigeria,13134,Côte d'Ivoire,12077
+0,288,Ghana,2005,Immigration,145073,male,Togo,47474,Burkina Faso,27544,Liberia,23254,Côte d'Ivoire,13685,Nigeria,10187
+0,288,Ghana,2005,Immigration,304436,total,Togo,86196,Burkina Faso,65321,Liberia,50459,Côte d'Ivoire,25762,Nigeria,23321
+0,288,Ghana,2010,Emigration,386075,female,Nigeria,106759,United States of America,69093,United Kingdom,43912,Italy,28693,Togo,18384
+0,288,Ghana,2010,Emigration,329969,male,Nigeria,76592,United Kingdom,47628,United States of America,46942,Côte d'Ivoire,25135,Togo,24607
+0,288,Ghana,2010,Emigration,716044,total,Nigeria,183351,United States of America,116035,United Kingdom,91540,Italy,46540,Togo,42991
+0,288,Ghana,2010,Immigration,171558,female,Togo,33161,Nigeria,32812,Burkina Faso,28879,Liberia,12595,Côte d'Ivoire,12478
+0,288,Ghana,2010,Immigration,165459,male,Togo,40654,Nigeria,24244,Burkina Faso,19828,Côte d'Ivoire,13135,Liberia,10765
+0,288,Ghana,2010,Immigration,337017,total,Togo,73815,Nigeria,57056,Burkina Faso,48707,Côte d'Ivoire,25613,Liberia,23360
+0,288,Ghana,2015,Emigration,437001,female,Nigeria,122006,United States of America,90785,United Kingdom,51100,Italy,28379,Togo,19245
+0,288,Ghana,2015,Emigration,389993,male,Nigeria,100371,United States of America,62608,United Kingdom,57002,Togo,27549,Côte d'Ivoire,26102
+0,288,Ghana,2015,Emigration,826994,total,Nigeria,222377,United States of America,153393,United Kingdom,108102,Togo,46794,Italy,46548
+0,288,Ghana,2015,Immigration,203351,female,Togo,39892,Nigeria,39242,Burkina Faso,34517,Liberia,15084,Côte d'Ivoire,14979
+0,288,Ghana,2015,Immigration,196120,male,Togo,47602,Nigeria,28387,Burkina Faso,23216,Côte d'Ivoire,15380,Liberia,12605
+0,288,Ghana,2015,Immigration,399471,total,Togo,87494,Nigeria,67629,Burkina Faso,57733,Côte d'Ivoire,30359,Liberia,27689
+0,288,Ghana,2017,Emigration,452691,female,Nigeria,125667,United States of America,93797,United Kingdom,53401,Italy,28922,Togo,19740
+0,288,Ghana,2017,Emigration,404912,male,Nigeria,103381,United States of America,64684,United Kingdom,60236,Togo,28257,Côte d'Ivoire,26362
+0,288,Ghana,2017,Emigration,857603,total,Nigeria,229048,United States of America,158481,United Kingdom,113637,Togo,47997,Italy,47366
+0,288,Ghana,2017,Immigration,212601,female,Togo,41706,Nigeria,41027,Burkina Faso,36087,Liberia,15770,Côte d'Ivoire,15660
+0,288,Ghana,2017,Immigration,205041,male,Togo,49767,Nigeria,29678,Burkina Faso,24272,Côte d'Ivoire,16079,Liberia,13178
+0,288,Ghana,2017,Immigration,417642,total,Togo,91473,Nigeria,70705,Burkina Faso,60359,Côte d'Ivoire,31739,Liberia,28948
+0,404,Kenya,1990,Emigration,118536,female,United Kingdom,56485,Uganda,14665,United Republic of Tanzania,14402,Canada,7748,United States of America,7416
+0,404,Kenya,1990,Emigration,123583,male,United Kingdom,53237,United Republic of Tanzania,19211,Uganda,18759,Canada,8166,United States of America,6955
+0,404,Kenya,1990,Emigration,242119,total,United Kingdom,109722,United Republic of Tanzania,33613,Uganda,33424,Canada,15914,United States of America,14371
+0,404,Kenya,1990,Immigration,160852,female,Uganda,42091,United Republic of Tanzania,35782,Ethiopia,15293,Somalia,4382,South Sudan,3332
+0,404,Kenya,1990,Immigration,136440,male,Uganda,41264,United Republic of Tanzania,30682,Ethiopia,11402,Somalia,3493,South Sudan,2469
+0,404,Kenya,1990,Immigration,297292,total,Uganda,83355,United Republic of Tanzania,66464,Ethiopia,26695,Somalia,7875,South Sudan,5801
+0,404,Kenya,1995,Emigration,129383,female,United Kingdom,59323,United States of America,14558,Uganda,13743,United Republic of Tanzania,13607,Canada,8702
+0,404,Kenya,1995,Emigration,137701,male,United Kingdom,57228,Uganda,19109,United Republic of Tanzania,18133,United States of America,13336,Canada,9265
+0,404,Kenya,1995,Emigration,267084,total,United Kingdom,116551,Uganda,32852,United Republic of Tanzania,31740,United States of America,27894,Canada,17967
+0,404,Kenya,1995,Immigration,322189,female,Uganda,117617,Somalia,54743,United Republic of Tanzania,38837,South Sudan,28584,Ethiopia,16825
+0,404,Kenya,1995,Immigration,296556,male,Uganda,120347,Somalia,49000,United Republic of Tanzania,34282,South Sudan,25412,Ethiopia,12696
+0,404,Kenya,1995,Immigration,618745,total,Uganda,237964,Somalia,103743,United Republic of Tanzania,73119,South Sudan,53996,Ethiopia,29521
+0,404,Kenya,2000,Emigration,148869,female,United Kingdom,63010,United States of America,21882,Uganda,18951,United Republic of Tanzania,12971,Canada,9864
+0,404,Kenya,2000,Emigration,159330,male,United Kingdom,62330,Uganda,24083,United States of America,19833,United Republic of Tanzania,17301,Canada,10583
+0,404,Kenya,2000,Emigration,308199,total,United Kingdom,125340,Uganda,43034,United States of America,41715,United Republic of Tanzania,30272,Canada,20447
+0,404,Kenya,2000,Immigration,348594,female,Uganda,143504,Somalia,82223,South Sudan,41894,United Republic of Tanzania,25674,Ethiopia,11399
+0,404,Kenya,2000,Immigration,350545,male,Uganda,156367,Somalia,76974,South Sudan,39262,United Republic of Tanzania,25615,Ethiopia,9447
+0,404,Kenya,2000,Immigration,699139,total,Uganda,299871,Somalia,159197,South Sudan,81156,United Republic of Tanzania,51289,Ethiopia,20846
+0,404,Kenya,2005,Emigration,164674,female,United Kingdom,61326,United States of America,33996,Uganda,18697,United Republic of Tanzania,12415,Canada,10448
+0,404,Kenya,2005,Emigration,179447,male,United Kingdom,63500,United States of America,30488,Uganda,24010,United Republic of Tanzania,16595,Canada,11609
+0,404,Kenya,2005,Emigration,344121,total,United Kingdom,124826,United States of America,64484,Uganda,42707,United Republic of Tanzania,29010,Canada,22057
+0,404,Kenya,2005,Immigration,391310,female,Uganda,144595,Somalia,138122,South Sudan,33359,United Republic of Tanzania,21801,Ethiopia,11759
+0,404,Kenya,2005,Immigration,365584,male,Uganda,147181,Somalia,121584,South Sudan,29187,United Republic of Tanzania,20281,Ethiopia,9158
+0,404,Kenya,2005,Immigration,756894,total,Uganda,291776,Somalia,259706,South Sudan,62546,United Republic of Tanzania,42082,Ethiopia,20917
+0,404,Kenya,2010,Emigration,193879,female,United Kingdom,65247,United States of America,46772,Uganda,19193,United Republic of Tanzania,11899,Canada,11467
+0,404,Kenya,2010,Emigration,213567,male,United Kingdom,69227,United States of America,43054,Uganda,24631,United Republic of Tanzania,15965,Canada,13048
+0,404,Kenya,2010,Emigration,407446,total,United Kingdom,134474,United States of America,89826,Uganda,43824,United Republic of Tanzania,27864,Canada,24515
+0,404,Kenya,2010,Immigration,459343,female,Somalia,203624,Uganda,153956,South Sudan,27160,United Republic of Tanzania,19347,Ethiopia,13043
+0,404,Kenya,2010,Immigration,467616,male,Somalia,195129,Uganda,173022,South Sudan,26058,United Republic of Tanzania,19773,Ethiopia,11048
+0,404,Kenya,2010,Immigration,926959,total,Somalia,398753,Uganda,326978,South Sudan,53218,United Republic of Tanzania,39120,Ethiopia,24091
+0,404,Kenya,2015,Emigration,217481,female,United Kingdom,64161,United States of America,61563,Uganda,19016,Canada,12824,United Republic of Tanzania,11734
+0,404,Kenya,2015,Emigration,241856,male,United Kingdom,69990,United States of America,57647,Uganda,24496,United Republic of Tanzania,15513,South Africa,14926
+0,404,Kenya,2015,Emigration,459337,total,United Kingdom,134151,United States of America,119210,Uganda,43512,Canada,27415,United Republic of Tanzania,27247
+0,404,Kenya,2015,Immigration,541644,female,Somalia,250295,Uganda,157796,South Sudan,47296,Ethiopia,20032,United Republic of Tanzania,19823
+0,404,Kenya,2015,Immigration,542713,male,Somalia,238175,Uganda,175993,South Sudan,45059,United Republic of Tanzania,20112,Ethiopia,16857
+0,404,Kenya,2015,Immigration,1084357,total,Somalia,488470,Uganda,333789,South Sudan,92355,United Republic of Tanzania,39935,Ethiopia,36889
+0,404,Kenya,2017,Emigration,235562,female,United Kingdom,67059,United States of America,63605,Uganda,26670,United Republic of Tanzania,13984,Canada,13333
+0,404,Kenya,2017,Emigration,265642,male,United Kingdom,73961,United States of America,59559,Uganda,34831,United Republic of Tanzania,18488,South Africa,15786
+0,404,Kenya,2017,Emigration,501204,total,United Kingdom,141020,United States of America,123164,Uganda,61501,United Republic of Tanzania,32472,Canada,28502
+0,404,Kenya,2017,Immigration,538724,female,Somalia,248947,Uganda,156945,South Sudan,47041,Ethiopia,19924,United Republic of Tanzania,19716
+0,404,Kenya,2017,Immigration,539848,male,Somalia,236917,Uganda,175063,South Sudan,44821,United Republic of Tanzania,20005,Ethiopia,16768
+0,404,Kenya,2017,Immigration,1078572,total,Somalia,485864,Uganda,332008,South Sudan,91862,United Republic of Tanzania,39721,Ethiopia,36692
+0,566,Nigeria,1990,Emigration,256747,female,Cameroon,60603,United States of America,36436,United Kingdom,22988,Côte d'Ivoire,15798,Niger,15484
+0,566,Nigeria,1990,Emigration,191713,male,Cameroon,44537,United Kingdom,22996,Niger,22835,United States of America,18914,Côte d'Ivoire,15554
+0,566,Nigeria,1990,Emigration,448460,total,Cameroon,105140,United States of America,55350,United Kingdom,45984,Niger,38319,Côte d'Ivoire,31352
+0,566,Nigeria,1990,Immigration,256166,female,Benin,54193,Ghana,42256,Togo,26304,Niger,19884,Mali,8179
+0,566,Nigeria,1990,Immigration,200455,male,Benin,42406,Ghana,33066,Togo,20582,Niger,15558,Mali,6399
+0,566,Nigeria,1990,Immigration,456621,total,Benin,96599,Ghana,75322,Togo,46886,Niger,35442,Mali,14578
+0,566,Nigeria,1995,Emigration,300035,female,United States of America,63852,Cameroon,56266,United Kingdom,32488,Côte d'Ivoire,18250,Benin,13445
+0,566,Nigeria,1995,Emigration,220664,male,Cameroon,41552,United Kingdom,32680,United States of America,32566,Côte d'Ivoire,18236,Niger,15830
+0,566,Nigeria,1995,Emigration,520699,total,Cameroon,97818,United States of America,96418,United Kingdom,65168,Côte d'Ivoire,36486,Niger,28313
+0,566,Nigeria,1995,Immigration,258091,female,Benin,65530,Ghana,45306,Togo,29233,Niger,22219,Mali,21880
+0,566,Nigeria,1995,Immigration,204908,male,Benin,52026,Ghana,35970,Togo,23209,Niger,17639,Mali,17371
+0,566,Nigeria,1995,Immigration,462999,total,Benin,117556,Ghana,81276,Togo,52442,Niger,39858,Mali,39251
+0,566,Nigeria,2000,Emigration,346630,female,United States of America,91915,Cameroon,51929,United Kingdom,42450,Côte d'Ivoire,17785,Benin,14739
+0,566,Nigeria,2000,Emigration,253072,male,United States of America,46451,United Kingdom,42999,Cameroon,38566,Côte d'Ivoire,17822,Italy,16918
+0,566,Nigeria,2000,Emigration,599702,total,United States of America,138366,Cameroon,90495,United Kingdom,85449,Côte d'Ivoire,35607,Italy,26781
+0,566,Nigeria,2000,Immigration,270211,female,Benin,79318,Ghana,50112,Mali,36273,Togo,33284,Niger,25404
+0,566,Nigeria,2000,Immigration,217671,male,Benin,63894,Ghana,40367,Mali,29220,Togo,26811,Niger,20464
+0,566,Nigeria,2000,Immigration,487882,total,Benin,143212,Ghana,90479,Mali,65493,Togo,60095,Niger,45868
+0,566,Nigeria,2005,Emigration,423738,female,United States of America,87229,United Kingdom,67665,Cameroon,57127,Benin,19215,Italy,18166
+0,566,Nigeria,2005,Emigration,359254,male,United States of America,86919,United Kingdom,65877,Cameroon,44594,Italy,23349,Côte d'Ivoire,17977
+0,566,Nigeria,2005,Emigration,782992,total,United States of America,174148,United Kingdom,133542,Cameroon,101721,Italy,41515,Côte d'Ivoire,35940
+0,566,Nigeria,2005,Immigration,564384,female,Benin,165669,Ghana,104666,Mali,75762,Togo,69518,Niger,53061
+0,566,Nigeria,2005,Immigration,404910,male,Benin,118854,Ghana,75090,Mali,54353,Togo,49872,Niger,38065
+0,566,Nigeria,2005,Immigration,969294,total,Benin,284523,Ghana,179756,Mali,130115,Togo,119390,Niger,91126
+0,566,Nigeria,2010,Emigration,540660,female,United States of America,106813,United Kingdom,99026,Cameroon,49494,Ghana,32812,Italy,26469
+0,566,Nigeria,2010,Emigration,445205,male,United States of America,109396,United Kingdom,93482,Cameroon,33254,Italy,29780,Ghana,24244
+0,566,Nigeria,2010,Emigration,985865,total,United States of America,216209,United Kingdom,192508,Cameroon,82748,Ghana,57056,Italy,56249
+0,566,Nigeria,2010,Immigration,575671,female,Benin,168982,Ghana,106759,Mali,77277,Togo,70908,Niger,54122
+0,566,Nigeria,2010,Immigration,413008,male,Benin,121232,Ghana,76592,Mali,55441,Togo,50870,Niger,38827
+0,566,Nigeria,2010,Immigration,988679,total,Benin,290214,Ghana,183351,Mali,132718,Togo,121778,Niger,92949
+0,566,Nigeria,2015,Emigration,638723,female,United States of America,133684,United Kingdom,101174,Cameroon,61591,Ghana,39242,Niger,35202
+0,566,Nigeria,2015,Emigration,541866,male,United States of America,139411,United Kingdom,98042,Cameroon,47106,Niger,37977,Italy,30318
+0,566,Nigeria,2015,Emigration,1180589,total,United States of America,273095,United Kingdom,199216,Cameroon,108697,Niger,73179,Ghana,67629
+0,566,Nigeria,2015,Immigration,657887,female,Benin,193115,Ghana,122006,Mali,88314,Togo,81034,Niger,61851
+0,566,Nigeria,2015,Immigration,541228,male,Benin,158870,Ghana,100371,Mali,72653,Togo,66664,Niger,50882
+0,566,Nigeria,2015,Immigration,1199115,total,Benin,351985,Ghana,222377,Mali,160967,Togo,147698,Niger,112733
+0,566,Nigeria,2017,Emigration,678386,female,United States of America,138118,United Kingdom,105813,Cameroon,65376,Niger,47927,Ghana,41027
+0,566,Nigeria,2017,Emigration,577039,male,United States of America,144035,United Kingdom,103604,Niger,50922,Cameroon,50143,Italy,30777
+0,566,Nigeria,2017,Emigration,1255425,total,United States of America,282153,United Kingdom,209417,Cameroon,115519,Niger,98849,Ghana,70705
+0,566,Nigeria,2017,Immigration,677624,female,Benin,198909,Ghana,125667,Mali,90963,Togo,83465,Niger,63706
+0,566,Nigeria,2017,Immigration,557464,male,Benin,163635,Ghana,103381,Mali,74832,Togo,68663,Niger,52408
+0,566,Nigeria,2017,Immigration,1235088,total,Benin,362544,Ghana,229048,Mali,165795,Togo,152128,Niger,116114
+0,706,Somalia,1990,Emigration,448139,female,Ethiopia,324269,Djibouti,54118,Yemen,21042,Canada,9501,Sweden,5473
+0,706,Somalia,1990,Emigration,398828,male,Ethiopia,292671,Djibouti,47098,Yemen,15729,Canada,10016,Italy,7738
+0,706,Somalia,1990,Emigration,846967,total,Ethiopia,616940,Djibouti,101216,Yemen,36771,Canada,19517,Italy,11363
+0,706,Somalia,1990,Immigration,244201,female,Ethiopia,234861,Afghanistan,0,Peru,0,Nicaragua,0,Niger,0
+0,706,Somalia,1990,Immigration,234093,male,Ethiopia,225139,Afghanistan,0,Peru,0,Nicaragua,0,Niger,0
+0,706,Somalia,1990,Immigration,478294,total,Ethiopia,460000,Afghanistan,0,Peru,0,Nicaragua,0,Niger,0
+0,706,Somalia,1995,Emigration,470679,female,Ethiopia,231129,Kenya,54743,Djibouti,44204,Yemen,35648,Libya,26153
+0,706,Somalia,1995,Emigration,428799,male,Ethiopia,228486,Kenya,49000,Djibouti,38421,Yemen,26036,Libya,13935
+0,706,Somalia,1995,Emigration,899478,total,Ethiopia,459615,Kenya,103743,Djibouti,82625,Yemen,61684,Libya,40088
+0,706,Somalia,1995,Immigration,10282,female,Ethiopia,9490,Afghanistan,0,Peru,0,Nicaragua,0,Niger,0
+0,706,Somalia,1995,Immigration,9245,male,Ethiopia,8554,Afghanistan,0,Peru,0,Nicaragua,0,Niger,0
+0,706,Somalia,1995,Immigration,19527,total,Ethiopia,18044,Afghanistan,0,Peru,0,Nicaragua,0,Niger,0
+0,706,Somalia,2000,Emigration,516775,female,Ethiopia,182322,Kenya,82223,Libya,51219,Djibouti,44574,Yemen,39512
+0,706,Somalia,2000,Emigration,487668,male,Ethiopia,207097,Kenya,76974,Djibouti,38656,Yemen,29500,Libya,25699
+0,706,Somalia,2000,Emigration,1004443,total,Ethiopia,389419,Kenya,159197,Djibouti,83230,Libya,76918,Yemen,69012
+0,706,Somalia,2000,Immigration,10622,female,Ethiopia,293,Afghanistan,0,Peru,0,Nicaragua,0,Niger,0
+0,706,Somalia,2000,Immigration,9465,male,Ethiopia,262,Afghanistan,0,Peru,0,Nicaragua,0,Niger,0
+0,706,Somalia,2000,Immigration,20087,total,Ethiopia,555,Afghanistan,0,Peru,0,Nicaragua,0,Niger,0
+0,706,Somalia,2005,Emigration,618624,female,Ethiopia,161785,Kenya,138122,Libya,61493,Yemen,56367,Djibouti,43138
+0,706,Somalia,2005,Emigration,531859,male,Ethiopia,165760,Kenya,121584,United States of America,38358,United Kingdom,37885,Yemen,35755
+0,706,Somalia,2005,Emigration,1150483,total,Ethiopia,327545,Kenya,259706,Yemen,92122,Libya,84755,United States of America,76917
+0,706,Somalia,2005,Immigration,11047,female,Ethiopia,605,Eritrea,10,Afghanistan,0,Paraguay,0,Nicaragua,0
+0,706,Somalia,2005,Immigration,9623,male,Ethiopia,537,Eritrea,7,Afghanistan,0,Paraguay,0,Nicaragua,0
+0,706,Somalia,2005,Immigration,20670,total,Ethiopia,1142,Eritrea,17,Afghanistan,0,Paraguay,0,Nicaragua,0
+0,706,Somalia,2010,Emigration,836844,female,Kenya,203624,Ethiopia,189516,Yemen,106916,Libya,67567,United States of America,59618
+0,706,Somalia,2010,Emigration,741389,male,Kenya,195129,Ethiopia,172093,Yemen,87477,United States of America,60957,United Kingdom,55649
+0,706,Somalia,2010,Emigration,1578233,total,Kenya,398753,Ethiopia,361609,Yemen,194393,United States of America,120575,United Kingdom,98604
+0,706,Somalia,2010,Immigration,12914,female,Ethiopia,996,Eritrea,20,Afghanistan,0,Paraguay,0,Nicaragua,0
+0,706,Somalia,2010,Immigration,11081,male,Ethiopia,886,Eritrea,17,Afghanistan,0,Paraguay,0,Nicaragua,0
+0,706,Somalia,2010,Immigration,23995,total,Ethiopia,1882,Eritrea,37,Afghanistan,0,Paraguay,0,Nicaragua,0
+0,706,Somalia,2015,Emigration,1004255,female,Kenya,250295,Ethiopia,225826,Yemen,145880,Libya,75791,Djibouti,49768
+0,706,Somalia,2015,Emigration,920647,male,Kenya,238175,Ethiopia,217084,Yemen,129803,United Kingdom,65267,United States of America,45172
+0,706,Somalia,2015,Emigration,1924902,total,Kenya,488470,Ethiopia,442910,Yemen,275683,United Kingdom,114110,Libya,104539
+0,706,Somalia,2015,Immigration,21904,female,Ethiopia,6540,Yemen,2942,Eritrea,19,Afghanistan,0,Paraguay,0
+0,706,Somalia,2015,Immigration,19674,male,Ethiopia,6539,Yemen,2941,Eritrea,15,Afghanistan,0,Paraguay,0
+0,706,Somalia,2015,Immigration,41578,total,Ethiopia,13079,Yemen,5883,Eritrea,34,Afghanistan,0,Paraguay,0
+0,706,Somalia,2017,Emigration,1035586,female,Kenya,248947,Ethiopia,238168,Yemen,147578,Libya,77489,Djibouti,51406
+0,706,Somalia,2017,Emigration,952872,male,Kenya,236917,Ethiopia,229340,Yemen,131313,United Kingdom,68970,United States of America,46670
+0,706,Somalia,2017,Emigration,1988458,total,Kenya,485864,Ethiopia,467508,Yemen,278891,United Kingdom,119953,Libya,106880
+0,706,Somalia,2017,Immigration,23549,female,Ethiopia,6867,Yemen,4478,Eritrea,20,Afghanistan,0,Paraguay,0
+0,706,Somalia,2017,Immigration,21319,male,Ethiopia,6865,Yemen,3663,Eritrea,15,Afghanistan,0,Paraguay,0
+0,706,Somalia,2017,Immigration,44868,total,Ethiopia,13732,Yemen,8141,Eritrea,35,Afghanistan,0,Paraguay,0
+0,710,South Africa,1990,Emigration,160035,female,United Kingdom,30985,Australia,29023,United States of America,16657,Mozambique,14756,Canada,11552
+0,710,South Africa,1990,Emigration,167626,male,United Kingdom,35936,Australia,29661,United States of America,18050,Mozambique,14057,Canada,12177
+0,710,South Africa,1990,Emigration,327661,total,United Kingdom,66921,Australia,58684,United States of America,34707,Mozambique,28813,Canada,23729
+0,710,South Africa,1990,Immigration,717227,female,Mozambique,246668,Lesotho,143738,United Kingdom,47415,Zimbabwe,35063,Swaziland,25065
+0,710,South Africa,1990,Immigration,446656,male,Mozambique,99765,United Kingdom,69947,Lesotho,43281,Zimbabwe,26812,Germany,18703
+0,710,South Africa,1990,Immigration,1163883,total,Mozambique,346433,Lesotho,187019,United Kingdom,117362,Zimbabwe,61875,Swaziland,34114
+0,710,South Africa,1995,Emigration,197299,female,United Kingdom,47600,Australia,30023,United States of America,24170,Mozambique,15282,Canada,14514
+0,710,South Africa,1995,Emigration,205129,male,United Kingdom,53371,Australia,31116,United States of America,25619,Canada,15469,Mozambique,14220
+0,710,South Africa,1995,Emigration,402428,total,United Kingdom,100971,Australia,61139,United States of America,49789,Canada,29983,Mozambique,29502
+0,710,South Africa,1995,Immigration,611083,female,Mozambique,218533,Lesotho,91247,United Kingdom,48929,Zimbabwe,47853,Swaziland,19006
+0,710,South Africa,1995,Immigration,392724,male,Mozambique,102126,United Kingdom,56842,Lesotho,39650,Zimbabwe,34891,Germany,12978
+0,710,South Africa,1995,Immigration,1003807,total,Mozambique,320659,Lesotho,130897,United Kingdom,105771,Zimbabwe,82744,Swaziland,28635
+0,710,South Africa,2000,Emigration,250579,female,United Kingdom,64877,Australia,39830,United States of America,31874,Canada,17824,Mozambique,13544
+0,710,South Africa,2000,Emigration,261730,male,United Kingdom,71843,Australia,40810,United States of America,33297,Canada,19125,Mozambique,13408
+0,710,South Africa,2000,Emigration,512309,total,United Kingdom,136720,Australia,80640,United States of America,65171,Canada,36949,Mozambique,26952
+0,710,South Africa,2000,Immigration,600032,female,Mozambique,170677,Zimbabwe,72838,Lesotho,63068,United Kingdom,61581,Namibia,22048
+0,710,South Africa,2000,Immigration,401793,male,Mozambique,63597,United Kingdom,62421,Zimbabwe,54235,Lesotho,48820,Namibia,21567
+0,710,South Africa,2000,Immigration,1001825,total,Mozambique,234274,Zimbabwe,127073,United Kingdom,124002,Lesotho,111888,Namibia,43615
+0,710,South Africa,2005,Emigration,304237,female,United Kingdom,75990,Australia,56810,United States of America,35941,New Zealand,19345,Canada,18800
+0,710,South Africa,2005,Emigration,313789,male,United Kingdom,83239,Australia,57350,United States of America,37123,New Zealand,20510,Canada,19630
+0,710,South Africa,2005,Emigration,618026,total,United Kingdom,159229,Australia,114160,United States of America,73064,New Zealand,39855,Canada,38430
+0,710,South Africa,2005,Immigration,712219,female,Mozambique,147716,Zimbabwe,147715,Lesotho,74023,United Kingdom,73053,Namibia,26243
+0,710,South Africa,2005,Immigration,498717,male,United Kingdom,75457,Mozambique,73152,Zimbabwe,73151,Lesotho,59914,Namibia,25967
+0,710,South Africa,2005,Immigration,1210936,total,Zimbabwe,220867,Mozambique,220867,United Kingdom,148510,Lesotho,133937,Namibia,52210
+0,710,South Africa,2010,Emigration,365155,female,United Kingdom,94093,Australia,77830,United States of America,40446,New Zealand,23503,Canada,20132
+0,710,South Africa,2010,Emigration,375118,male,United Kingdom,100608,Australia,78100,United States of America,42960,New Zealand,25011,Canada,20423
+0,710,South Africa,2010,Emigration,740273,total,United Kingdom,194701,Australia,155930,United States of America,83406,New Zealand,48514,Canada,40555
+0,710,South Africa,2010,Immigration,1216129,female,Zimbabwe,311521,Mozambique,195018,Lesotho,126118,United Kingdom,61951,Namibia,44550
+0,710,South Africa,2010,Immigration,880757,male,Zimbabwe,158901,Lesotho,105810,Mozambique,99476,United Kingdom,66630,Namibia,45858
+0,710,South Africa,2010,Immigration,2096886,total,Zimbabwe,470423,Mozambique,294493,Lesotho,231928,United Kingdom,128581,Namibia,90408
+0,710,South Africa,2015,Emigration,421456,female,United Kingdom,95365,Australia,91448,United States of America,46215,New Zealand,27272,Botswana,23906
+0,710,South Africa,2015,Emigration,441495,male,United Kingdom,104853,Australia,91922,United States of America,49999,New Zealand,29124,Canada,22839
+0,710,South Africa,2015,Emigration,862951,total,United Kingdom,200218,Australia,183370,United States of America,96214,New Zealand,56396,Canada,45353
+0,710,South Africa,2015,Immigration,2122100,female,Zimbabwe,388498,Mozambique,238112,Lesotho,152998,Namibia,76327,Malawi,76066
+0,710,South Africa,2015,Immigration,1694596,male,Zimbabwe,215750,Lesotho,142506,Mozambique,132235,Namibia,88231,United Kingdom,64098
+0,710,South Africa,2015,Immigration,3816696,total,Zimbabwe,604248,Mozambique,370347,Lesotho,295504,Namibia,164558,United Kingdom,117019
+0,710,South Africa,2017,Emigration,438161,female,United Kingdom,99668,Australia,95491,United States of America,47748,New Zealand,27998,Botswana,24767
+0,710,South Africa,2017,Emigration,460246,male,United Kingdom,110802,Australia,96760,United States of America,51657,New Zealand,29899,Canada,23745
+0,710,South Africa,2017,Emigration,898407,total,United Kingdom,210470,Australia,192251,United States of America,99405,New Zealand,57897,Canada,47152
+0,710,South Africa,2017,Immigration,2244421,female,Zimbabwe,417518,Mozambique,245210,Lesotho,161817,Namibia,80727,Malawi,80450
+0,710,South Africa,2017,Immigration,1792275,male,Zimbabwe,231867,Lesotho,150720,Mozambique,136176,Namibia,93316,United Kingdom,67792
+0,710,South Africa,2017,Immigration,4036696,total,Zimbabwe,649385,Mozambique,381386,Lesotho,312537,Namibia,174043,United Kingdom,123764
