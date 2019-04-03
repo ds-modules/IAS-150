@@ -1,5 +1,7 @@
 import pandas as pd
 import numpy as np
+import jordan as j
+import random
 
 master_list = ['Cuba',
  'El Salvador',
@@ -174,3 +176,31 @@ def master(table):
        'Country 5',
        'Country 5 Count']]
     return temp
+
+# converts jordan's table to correct format
+def jordan_columns_to_rows(jordan):
+    keys = ['Country', 'Code', 'Year', 'Migration Type', 'Gender',
+                                      'Migrants Under 15 years old',
+                                     'Migrants 20-29 years old',
+                                     'Migrants 30-39 years old',
+                                     'Migrants 40-49 years old',
+                                     'Migrants 50 years old and older']
+    new_table = pd.DataFrame(columns=keys)
+
+    for i in range(0, jordan.shape[0]):
+        row = list(jordan.loc[[i]].values[0])
+        predicates = row[0:3]
+
+        total = row[3:9]
+        male = row[9:15]
+        female = row[15:21]
+
+        female_new = predicates + ['Immigration', 'female'] +  female
+        total_new = predicates + ['Immigration', 'total'] + total
+        male_new = predicates + ['Immigration', 'male'] + male
+
+        new_table = new_table.append(dict(zip(keys, female_new)), ignore_index = True)
+        new_table = new_table.append(dict(zip(keys, male_new)), ignore_index = True)
+        new_table = new_table.append(dict(zip(keys, total_new)), ignore_index = True)
+
+    return new_table
