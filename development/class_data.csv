@@ -1,0 +1,20 @@
+Country,Code,Admits asylum migrants?,Has migrate to countries abroad as refugees/asylum-seekers?,War or Genocide?,Government instability? ,Organized crime?,Economic recession?,Financial crisis?,GDP in 1990,GDP in 1995,GDP in 2000,GDP in 2005,GDP in 2010,GDP in 2017,Natural disasters? ,Man-made disasters? ,Passport power rating,Changes over-time in access to visas? 
+El Salvador,2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4818,8922,11785,14698,18448,24805,Yes,Yes,123,Yes
+Ethiopia,231,Yes,Yes,Yes,Yes,Yes,Yes,Yes,12180,7664,8242,12400,29930,80560,Yes,Yes,85,Yes
+Kenya,404,Yes,Yes,Yes,Yes,Yes,No,No,8500,9000,12700,18740,40000,74900,No,No,60,No
+Guatemala,320,Yes,Yes,Yes,Yes,Yes,No,Yes,7,13,19,27,41,75,Yes,No,135,Yes
+Cuba,192,No,Yes,Yes,Yes,Yes,Yes,Yes,28650,30430,30570,42640,64330,96851,Yes,Yes,61,Yes
+Venezuela,862,Yes,Yes,Yes,Yes,Yes,Yes,Yes,47000,75000,117000,146000,393000,457000,Yes,Yes,29,Yes
+Afghanistan,4,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3622,3236,3542,6167,15325,19544,Yes,Yes,92,Yes
+China,156,Yes,Yes,Yes,Yes,Yes,Yes,Yes,356900,734500,1200000,2286000,6101000,12240000,Yes,Yes,75,Yes
+Honduras,340,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4923,5347,7104,9672,15834,22979,Yes,No,32,Yes
+Iraq,368,Yes,Yes,Yes,Yes,Yes,Yes,Yes,179886,0,25860,49955,138517,197700,Yes,Yes,33,Yes
+Syria,760,No,Yes,Yes,Yes,Yes,Yes,Yes,12310,11400,19330,28860,59150,45000,No,Yes,37,Yes
+Pakistan,586,Yes,Yes,Yes,Yes,Yes,Yes,Yes,40,60,74,109,176,270,Yes,Yes,91,Yes
+Vietnam,704,Yes,No,No,Yes,No,No,No,6747,20736,31172,57633,115931,223864,Yes,No,51,No
+South Africa,710,Yes,Yes,No,Yes,Yes,Yes,Yes,115.553,115.46,136.362,257.671,375.349,348.872,Yes,Yes,96,Yes
+Ghana,288,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5889,6465,4983,10732,32175,58997,Yes,No,67,Yes
+Philippines,608,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4431,7412,8103,10310,19960,31360,Yes,No,70,No
+Somalia,706,No,Yes,Yes,Yes,Yes,Yes,Yes,917,1122,2052,2316,1093,7052,Yes,Yes,89,Yes
+India,356,Yes,Yes,Yes,No,Yes,No,No,316697,355476,412147,808901,1657000,2601000,Yes,Yes,64,Yes
+Mexico,484,Yes,Yes,Yes,Yes,Yes,Yes,Yes,263,360,708,877.48,1058,1150,Yes,Yes,20,Yes
