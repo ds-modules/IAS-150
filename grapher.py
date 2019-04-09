@@ -1,3 +1,16 @@
+
+import pandas as pd
+import numpy as np
+import migrant_functions as mf
+import qgrid as qg
+import matplotlib.pyplot as plt
+import matplotlib as mtplt
+import jordan as j
+import random
+from matplotlib import gridspec
+import sys
+sys.path.insert(0, "development")
+
 # Takes one country, and compares different aspects of it by gender (and possibly by year)
 # Arguemnts:
     # country: Country of Interest
@@ -9,7 +22,7 @@
     # Aspect 2: Emigration
     # Aspect 3: Age Ranges (Immigration Only)
 
-
+migrant_data = pd.read_csv('development/migrant_table_final.csv').drop(columns=['Unnamed: 0'])
 
 def one_pick_and_graph(country, aspect, year=False):
 
