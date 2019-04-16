@@ -1,4 +1,3 @@
-%matplotlib inline
 from IPython.display import display
 import pandas as pd
 import numpy as np
@@ -13,32 +12,41 @@ import folium as fl
 from collections import namedtuple
 import warnings
 
+migrant_data = pd.read_csv("development/migrant_table_final_appended.csv")
+centroids = pd.read_excel('development/centroids_excel.xlsx')
+
+def convert(migraiton_type):
+    if migraiton_type == 1:
+        return 'Immigration'
+    else:
+        return 'Emigration'
+        
 def extract_top_5(migrant_data, country, gender, year, migration_type, log=False):
 
     english_mtype = convert(migration_type)
 
 
-    needed = migrant_data.loc[(migrant_data['Gender'] == gender) &
+    needed1 = migrant_data.loc[(migrant_data['Gender'] == gender) &
                               (migrant_data['Country'] == country) &
                               (migrant_data['Year'] == year) &
                               (migrant_data['Migration Type'] == english_mtype),:]
 
 
-    needed = migrant_data[['Country 1', 'Country 1 Count',
+    needed1 = needed1[['Country 1', 'Country 1 Count',
                      'Country 2', 'Country 2 Count',
                      'Country 3', 'Country 3 Count',
                      'Country 4', 'Country 4 Count',
                      'Country 5', 'Country 5 Count']]
 
 
-    needed = needed.apply(lambda x: x.tolist(), axis=1).values[0]
+    needed1 = needed1.apply(lambda x: x.tolist(), axis=1).values[0]
 
-    country_list = needed[0::2]
+    country_list = needed1[0::2]
 
     if log:
-        migration_list = np.log(needed[1::2])
+        migration_list = np.log(needed1[1::2])
     elif not log:
-        migration_list = needed[1::2]
+        migration_list = needed1[1::2]
 
     bar_graph_table = pd.DataFrame({'Country': country_list, 'Migration': migration_list}).set_index('Country')
 
@@ -117,7 +125,7 @@ def map_it(migrant_data, country, gender, year, migration_type):
 def graph_it(migrant_data, country, gender, year, migration_type, axis, log=False):
     return extract_top_5(migrant_data, country, gender, year, migration_type, log=log)[1].plot(kind='bar',ax=axis)
 
-def map_and_graph(migrant_data, country, gender, year, migration_type):
+def map_and_graph(country, gender, year, migration_type):
 
     fig1, axes = plt.subplots(nrows=1, ncols=2, figsize=(30,15));
 
@@ -150,7 +158,7 @@ def map_and_graph(migrant_data, country, gender, year, migration_type):
     plt.suptitle('Top 5 Countries, Bar Graphs', size=25)
     plt.show()
 
-def multiple_pick_and_graph(migrant_data, gender, immigration_type, interest_country_list, plot_type):
+def multiple_pick_and_graph(gender, immigration_type, interest_country_list, plot_type):
 
     conversion = {1:'Immigration', 2:'Emigration'}
 
@@ -258,7 +266,7 @@ def multiple_pick_and_graph(migrant_data, gender, immigration_type, interest_cou
             plt.bar(pos, bar, color=(random.uniform(0, 1), random.uniform(0, 1), random.uniform(0, 1)), width=barWidth, edgecolor='white', label=label)
 
         # Add xticks on the middle of the group bars
-        plt.title('Side by Side Comprison of ' + immigration_typey + ' for Selected Countries, by Year', size=15)
+        plt.title('Side by Side Comparison of ' + immigration_typey + ' for Selected Countries, by Year', size=15)
         plt.xlabel('Year', fontweight='bold', size=15)
         plt.ylabel('Counts', fontweight='bold', size=15)
         plt.xticks([r + barWidth for r in range(len(bars[0]))], ['1990', '1995', '2000',
@@ -272,7 +280,7 @@ def multiple_pick_and_graph(migrant_data, gender, immigration_type, interest_cou
     else:
         print('Not a valid visulization!')
 
-def one_pick_and_graph(country, aspect, year=False):
+def one_pick_and_graph(migrant_data, country, aspect, year=False):
 
     conversion = {1:'Immigration', 2:'Emigration', 3:'Age Ranges (Immigration)'}
 
@@ -441,7 +449,7 @@ def migration_side_by_side(country):
     t_plot = total.plot(x='Year', kind='bar', ax=axes);
     t_plot.legend(prop={'size': 30})
 
-def gdp(migrant_data, country1, country2):
+def gdp(country1, country2):
 
     c1 = migrant_data.loc[(migrant_data['Country']=='Cuba')&(migrant_data['Gender']=='male')&
                                 (migrant_data['Migration Type']=='Immigration'),:][['Year', 'GDP ']].rename(columns={'GDP ':country1})
