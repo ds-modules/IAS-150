@@ -457,10 +457,10 @@ def migration_side_by_side(country):
 
 def gdp(country1, country2):
 
-    c1 = migrant_data.loc[(migrant_data['Country']=='Cuba')&(migrant_data['Gender']=='male')&
+    c1 = migrant_data.loc[(migrant_data['Country']== country1)&(migrant_data['Gender']=='male')&
                                 (migrant_data['Migration Type']=='Immigration'),:][['Year', 'GDP']].rename(columns={'GDP ':country1})
 
-    c2 = migrant_data.loc[(migrant_data['Country']=='Honduras')&(migrant_data['Gender']=='male')&
+    c2 = migrant_data.loc[(migrant_data['Country']== country2)&(migrant_data['Gender']=='male')&
                                 (migrant_data['Migration Type']=='Immigration'),:][['Year', 'GDP']].rename(columns={'GDP ':country2})
 
     pd.merge(c1, c2, on='Year').rename(columns={'GDP_x':country1,'GDP_y':country2}).plot(x='Year', figsize=(15,8));
