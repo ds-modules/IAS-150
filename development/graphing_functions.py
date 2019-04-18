@@ -20,7 +20,7 @@ def convert(migraiton_type):
         return 'Immigration'
     else:
         return 'Emigration'
-        
+
 def extract_top_5(migrant_data, country, gender, year, migration_type, log=False):
 
     english_mtype = convert(migration_type)
@@ -262,8 +262,11 @@ def multiple_pick_and_graph(gender, immigration_type, interest_country_list, plo
             current = r
 
         #Make the plot
+        colors = ['b', 'y', 'r', 'm', 'c', 'g', 'k']
+        i = 0
         for pos, bar, label in zip(positions, bars, interest_country_list):
-            plt.bar(pos, bar, color=(random.uniform(0, 1), random.uniform(0, 1), random.uniform(0, 1)), width=barWidth, edgecolor='white', label=label)
+            plt.bar(pos, bar, color=colors[i], width=barWidth, edgecolor='white', label=label)
+            i += 1
 
         # Add xticks on the middle of the group bars
         plt.title('Side by Side Comparison of ' + immigration_typey + ' for Selected Countries, by Year', size=15)
@@ -351,8 +354,11 @@ def one_pick_and_graph(migrant_data, country, aspect, year=False):
                 current = r
 
             #Make the plot
+            colors = ['b', 'r', 'c', 'm', 'g', 'y', 'k']
+            i = 0
             for pos, bar, label in zip(positions, bars, ['female', 'male', 'total']):
-                plt.bar(pos, bar, color=(random.uniform(0, 1), random.uniform(0, 1), random.uniform(0, 1)), width=barWidth, edgecolor='white', label=label)
+                plt.bar(pos, bar, color=colors[i], width=barWidth, edgecolor='white', label=label)
+                i += 1
 
             # Add xticks on the middle of the group bars
             plt.xlabel('Year', size=15)
@@ -452,12 +458,12 @@ def migration_side_by_side(country):
 def gdp(country1, country2):
 
     c1 = migrant_data.loc[(migrant_data['Country']=='Cuba')&(migrant_data['Gender']=='male')&
-                                (migrant_data['Migration Type']=='Immigration'),:][['Year', 'GDP ']].rename(columns={'GDP ':country1})
+                                (migrant_data['Migration Type']=='Immigration'),:][['Year', 'GDP']].rename(columns={'GDP ':country1})
 
     c2 = migrant_data.loc[(migrant_data['Country']=='Honduras')&(migrant_data['Gender']=='male')&
-                                (migrant_data['Migration Type']=='Immigration'),:][['Year', 'GDP ']].rename(columns={'GDP ':country2})
+                                (migrant_data['Migration Type']=='Immigration'),:][['Year', 'GDP']].rename(columns={'GDP ':country2})
 
-    pd.merge(c1, c2, on='Year').plot(x='Year', figsize=(15,8));
+    pd.merge(c1, c2, on='Year').rename(columns={'GDP_x':country1,'GDP_y':country2}).plot(x='Year', figsize=(15,8));
     plt.xlabel('Year', size=15)
     plt.ylabel('GDP (Millions)', size=15)
     plt.title('GDP by Year', size=15)
