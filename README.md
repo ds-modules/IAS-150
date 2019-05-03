@@ -10,9 +10,9 @@
 
 The goal of this module is to exame a data set that the UN produces that explores the migrant stock and population of countries. 
 
-**Developers: Alex Almond, Jordan Jomsky**
+**Developers**: Alex Almond, Jordan Jomsky
 
-**Lead: Timlan Wong**
+**Lead**: Timlan Wong
 
 ### Data
 
