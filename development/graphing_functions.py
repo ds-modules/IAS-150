@@ -84,7 +84,7 @@ def map_it(migrant_data, country, gender, year, migration_type):
 
         for country in country_dict.keys():
 
-            dl.Marker(
+            fl.Marker(
               location= [country_dict[country][1], country_dict[country][2]],
               popup =country+ ", " + "Rank: " + str(country_dict[country][3]) + ', ' + convert(migration_type) + ' Total: ' + str(country_dict[country][0]),
               radius = 100000,
