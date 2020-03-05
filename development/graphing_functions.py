@@ -70,7 +70,7 @@ def map_it(migrant_data, country, gender, year, migration_type):
 
     country_dict = extract_top_5(migrant_data, country, gender, year, migration_type)[0]
 
-    the_map = fl.Map(location=[20,0], tiles="Mapbox Bright", zoom_start=2)
+    the_map = fl.Map(location=[20,0], zoom_start=2)
 
     if migration_type == 2:
 
