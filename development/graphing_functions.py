@@ -75,20 +75,20 @@ def map_it(migrant_data, country, gender, year, migration_type):
     if migration_type == 2:
 
 
-        the_map.circle_marker(
+        fl.Marker(
           location= country_location,
           popup = [country],
           radius = 150000,
-          fill_color='gold')
+          fill_color='gold').add_to(the_map)
 
 
         for country in country_dict.keys():
 
-            the_map.circle_marker(
+            dl.Marker(
               location= [country_dict[country][1], country_dict[country][2]],
               popup =country+ ", " + "Rank: " + str(country_dict[country][3]) + ', ' + convert(migration_type) + ' Total: ' + str(country_dict[country][0]),
               radius = 100000,
-              fill_color='blue')
+              fill_color='blue').add_to(the_map)
 
         for country in country_dict:
             location = [country_dict[country][1], country_dict[country][2]]
@@ -98,19 +98,19 @@ def map_it(migrant_data, country, gender, year, migration_type):
 
     if migration_type == 1:
 
-        the_map.circle_marker(
+        fl.Marker(
           location= country_location,
           popup = [country],
           radius = 150000,
-          fill_color='blue')
+          fill_color='blue').add_to(the_map)
 
         for country in country_dict.keys():
 
-            the_map.circle_marker(
+            fl.Marker(
               location= [country_dict[country][1], country_dict[country][2]],
               popup = country+ ", " + "Rank: " + str(country_dict[country][3]) + ', ' + convert(migration_type) + ' Total: ' + str(country_dict[country][0]),
               radius = 100000,
-              fill_color='gold')
+              fill_color='gold').add_to(the_map)
 
 
 
