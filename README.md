@@ -7,6 +7,8 @@
 
 **Instructor: Tiffany Linton Page**
 
+**Graduate Student Researcher: Isabel García Valdivia** 
+
 The goal of this module is to exame a data set that the UN produces that explores the migrant stock and population of countries. 
 
 **Developers**: Alex Almond, Jordan Jomsky
